@@ -1,0 +1,24 @@
+version: "3.7"
+
+services:
+  node-red:
+    image: nodered/node-red:latest
+    container_name: nodered
+    environment:
+      - TZ=America/Edmonton
+    ports:
+      - 1880:1880
+    volumes:
+      - node-red-data:/data
+      - ./flows.json:/external/flows.json
+      - ./flows_cred.json:/external/flows_cred.json
+  pp:
+    image: haumea/fireflyiii-pp:latest
+    container_name: fireflyiii-pp
+    ports:
+      - 9091:80
+    volumes:
+      - ./thunder-tests:/thunder
+
+volumes:
+  node-red-data:
