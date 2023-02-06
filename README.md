@@ -5,7 +5,7 @@ A set of companion tools for post-processing transactions in Firefly-iii
 ### Deployment
 
 ```shell
-docker compose up -d
+./run.sh
 ```
 
 ### Usage

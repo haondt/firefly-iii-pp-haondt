@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "_id": "c8ea0575-fcaa-49fd-91a8-4668f50ac628",
+    "name": "firefly-iii",
+    "default": true,
+    "sortNum": 20000,
+    "created": "2023-02-01T22:37:28.855Z",
+    "modified": "2023-02-01T22:37:28.855Z",
+    "data": [
+      {
+        "name": "base_url",
+        "value": "http://docker-selfhosted:8080"
+      }
+    ]
+  },
+  {
+    "_id": "781e6128-ed44-41c5-bb81-c6709f552e48",
+    "name": "firefly-iii-pp-dev",
+    "default": false,
+    "sortNum": 30000,
+    "created": "2023-02-01T22:37:38.183Z",
+    "modified": "2023-02-01T22:37:38.183Z",
+    "data": [
+      {
+        "name": "base_url",
+        "value": "localhost:49162/api/v1"
+      }
+    ]
+  },
+  {
+    "_id": "5eb8dd24-a589-4700-9fa1-b20331bf6817",
+    "name": "nodered-dev",
+    "default": false,
+    "sortNum": 40000,
+    "created": "2023-02-02T02:31:47.429Z",
+    "modified": "2023-02-02T02:31:47.429Z",
+    "data": [
+      {
+        "name": "base_url",
+        "value": "http://localhost:1880"
+      }
+    ]
+  }
+]

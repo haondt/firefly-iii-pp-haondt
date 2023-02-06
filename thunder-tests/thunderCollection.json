@@ -1,1 +1,1443 @@
-[]
+[
+  {
+    "_id": "ad2c2845-67d0-43b1-8673-6f2dadc0b896",
+    "colName": "Firefly-III-pp-tests",
+    "created": "2023-02-01T22:21:58.822Z",
+    "sortNum": 10000,
+    "folders": [
+      {
+        "_id": "ebb55e05-91a4-4b58-aeae-da571531f3df",
+        "name": "Destinations",
+        "containerId": "",
+        "created": "2023-02-02T23:13:21.2412664+00:00",
+        "sortNum": 410,
+        "settings": {
+          "headers": [],
+          "tests": []
+        }
+      },
+      {
+        "_id": "0db50c50-a4cf-43bb-8a6b-6ce8408b07ec",
+        "name": "Dollarama",
+        "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
+        "created": "2023-02-02T23:13:21.2472502+00:00",
+        "sortNum": 420,
+        "settings": {
+          "headers": [],
+          "tests": [
+            {
+              "type": "json-query",
+              "value": "Dollarama",
+              "action": "equal",
+              "custom": "json.destination_name"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "b0f09bb5-3a52-4589-a308-0efb8f118378",
+        "name": "A&W",
+        "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
+        "created": "2023-02-02T23:13:21.2545699+00:00",
+        "sortNum": 100,
+        "settings": {
+          "headers": [],
+          "tests": [
+            {
+              "type": "json-query",
+              "value": "A&W",
+              "action": "equal",
+              "custom": "json.destination_name"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "995f58ba-29fd-4883-a4e9-6d866d2a12d0",
+        "name": "AMA",
+        "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
+        "created": "2023-02-02T23:13:21.254962+00:00",
+        "sortNum": 120,
+        "settings": {
+          "headers": [],
+          "tests": [
+            {
+              "type": "json-query",
+              "value": "AMA",
+              "action": "equal",
+              "custom": "json.destination_name"
+            },
+            {
+              "type": "json-query",
+              "value": "Vehicle Insurance and Registration",
+              "action": "equal",
+              "custom": "json.bill_name"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "c005fd70-9f11-4120-9720-55945582ef7b",
+        "name": "Freshii",
+        "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
+        "created": "2023-02-02T23:13:21.2549106+00:00",
+        "sortNum": 630,
+        "settings": {
+          "headers": [],
+          "tests": [
+            {
+              "type": "json-query",
+              "value": "Freshii",
+              "action": "equal",
+              "custom": "json.destination_name"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "0706e732-d093-43af-8335-4f859b0f4620",
+        "name": "United Sport & Cycle",
+        "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
+        "created": "2023-02-02T23:13:21.254758+00:00",
+        "sortNum": 1610,
+        "settings": {
+          "headers": [],
+          "tests": [
+            {
+              "type": "json-query",
+              "value": "United Sport & Cycle",
+              "action": "equal",
+              "custom": "json.destination_name"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "40c1ba78-5d34-4840-90b0-626b916c3f7e",
+        "name": "Blowers & Grafton",
+        "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
+        "created": "2023-02-02T23:13:21.2548471+00:00",
+        "sortNum": 230,
+        "settings": {
+          "headers": [],
+          "tests": [
+            {
+              "type": "json-query",
+              "value": "Blowers & Grafton",
+              "action": "equal",
+              "custom": "json.destination_name"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "e74b4d1b-179e-4d6f-bec8-bc587f787d92",
+        "name": "Amazon",
+        "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
+        "created": "2023-02-02T23:13:21.2551175+00:00",
+        "sortNum": 140,
+        "settings": {
+          "headers": [],
+          "tests": [
+            {
+              "type": "json-query",
+              "value": "Amazon",
+              "action": "equal",
+              "custom": "json.destination_name"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "6f3160d7-2a79-41eb-8c0f-207e618dc8c4",
+        "name": "Animethon",
+        "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
+        "created": "2023-02-02T23:13:21.2555096+00:00",
+        "sortNum": 190,
+        "settings": {
+          "headers": [],
+          "tests": [
+            {
+              "type": "json-query",
+              "value": "Animethon",
+              "action": "equal",
+              "custom": "json.destination_name"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "5b69917e-1326-46e7-addb-24ca746fe49c",
+        "name": "Apple",
+        "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
+        "created": "2023-02-02T23:13:21.2555956+00:00",
+        "sortNum": 210,
+        "settings": {
+          "headers": [],
+          "tests": [
+            {
+              "type": "json-query",
+              "value": "Apple",
+              "action": "equal",
+              "custom": "json.destination_name"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "e9ad34e4-4c5f-4b41-9cae-a2ec3d1bf30a",
+        "name": "Calendar Club",
+        "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
+        "created": "2023-02-02T23:13:21.2557414+00:00",
+        "sortNum": 250,
+        "settings": {
+          "headers": [],
+          "tests": [
+            {
+              "type": "json-query",
+              "value": "Calendar Club",
+              "action": "equal",
+              "custom": "json.destination_name"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "a0034535-128b-49d8-9753-e857158d231d",
+        "name": "Canadian Tire",
+        "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
+        "created": "2023-02-02T23:13:21.2558564+00:00",
+        "sortNum": 270,
+        "settings": {
+          "headers": [],
+          "tests": [
+            {
+              "type": "json-query",
+              "value": "Canadian Tire",
+              "action": "equal",
+              "custom": "json.destination_name"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "70fc0bf5-ee8a-4486-a875-77d95aa19e5a",
+        "name": "CDKeys",
+        "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
+        "created": "2023-02-02T23:13:21.2556666+00:00",
+        "sortNum": 310,
+        "settings": {
+          "headers": [],
+          "tests": [
+            {
+              "type": "json-query",
+              "value": "CDKeys",
+              "action": "equal",
+              "custom": "json.destination_name"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "82b1ddc3-e7eb-44be-b5a9-c570164f2493",
+        "name": "Coco Tea",
+        "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
+        "created": "2023-02-02T23:13:21.2561288+00:00",
+        "sortNum": 330,
+        "settings": {
+          "headers": [],
+          "tests": [
+            {
+              "type": "json-query",
+              "value": "Coco Tea",
+              "action": "equal",
+              "custom": "json.destination_name"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "0c3cb364-dfb1-468f-9ffb-502dbb704c5b",
+        "name": "Coinamatic",
+        "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
+        "created": "2023-02-02T23:13:21.2562687+00:00",
+        "sortNum": 350,
+        "settings": {
+          "headers": [],
+          "tests": [
+            {
+              "type": "json-query",
+              "value": "Coinamatic",
+              "action": "equal",
+              "custom": "json.destination_name"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "5716a3c3-6448-4ef1-b7bb-14f64d8a0af0",
+        "name": "Dairy Queen",
+        "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
+        "created": "2023-02-02T23:13:21.2564122+00:00",
+        "sortNum": 380,
+        "settings": {
+          "headers": [],
+          "tests": [
+            {
+              "type": "json-query",
+              "value": "Dairy Queen",
+              "action": "equal",
+              "custom": "json.destination_name"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "d2c8357a-fea4-4a36-b58d-47bdede17ac0",
+        "name": "Dream Tea",
+        "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
+        "created": "2023-02-02T23:13:21.2565329+00:00",
+        "sortNum": 440,
+        "settings": {
+          "headers": [],
+          "tests": [
+            {
+              "type": "json-query",
+              "value": "Dream Tea",
+              "action": "equal",
+              "custom": "json.destination_name"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "d7dee048-a816-4fbb-89ba-c7e4bd109a9c",
+        "name": "Ebay",
+        "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
+        "created": "2023-02-02T23:13:21.2567938+00:00",
+        "sortNum": 470,
+        "settings": {
+          "headers": [],
+          "tests": [
+            {
+              "type": "json-query",
+              "value": "Ebay",
+              "action": "equal",
+              "custom": "json.destination_name"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "80d64f5d-c5ce-4fba-bf47-a6770aafd97e",
+        "name": "Empire Park",
+        "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
+        "created": "2023-02-02T23:13:21.2568617+00:00",
+        "sortNum": 490,
+        "settings": {
+          "headers": [],
+          "tests": [
+            {
+              "type": "json-query",
+              "value": "Empire Park",
+              "action": "equal",
+              "custom": "json.destination_name"
+            },
+            {
+              "type": "json-query",
+              "value": "Rent",
+              "action": "equal",
+              "custom": "json.bill_name"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "42c72dc7-93c7-4d9b-a6b3-8d3b9bc7554a",
+        "name": "EPark",
+        "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
+        "created": "2023-02-02T23:13:21.2567209+00:00",
+        "sortNum": 510,
+        "settings": {
+          "headers": [],
+          "tests": [
+            {
+              "type": "json-query",
+              "value": "EPark",
+              "action": "equal",
+              "custom": "json.destination_name"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "326f4aad-c61f-41cf-b94a-978c02f47416",
+        "name": "Epcor",
+        "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
+        "created": "2023-02-02T23:13:21.2569932+00:00",
+        "sortNum": 530,
+        "settings": {
+          "headers": [],
+          "tests": [
+            {
+              "type": "json-query",
+              "value": "Epcor",
+              "action": "equal",
+              "custom": "json.destination_name"
+            },
+            {
+              "type": "json-query",
+              "value": "Utilities",
+              "action": "equal",
+              "custom": "json.bill_name"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "e3394fe1-17fd-47bf-ac27-24084e54bf75",
+        "name": "Epic Games",
+        "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
+        "created": "2023-02-02T23:13:21.2571093+00:00",
+        "sortNum": 560,
+        "settings": {
+          "headers": [],
+          "tests": [
+            {
+              "type": "json-query",
+              "value": "Epic Games",
+              "action": "equal",
+              "custom": "json.destination_name"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "404c67f1-6173-4d60-836b-c7c00303b7da",
+        "name": "Etsy",
+        "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
+        "created": "2023-02-02T23:13:21.2571793+00:00",
+        "sortNum": 580,
+        "settings": {
+          "headers": [],
+          "tests": [
+            {
+              "type": "json-query",
+              "value": "Etsy",
+              "action": "equal",
+              "custom": "json.destination_name"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "f9b5fd90-89a8-4e9b-9765-672f9ec2edcc",
+        "name": "Fatburger",
+        "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
+        "created": "2023-02-02T23:13:21.2572462+00:00",
+        "sortNum": 610,
+        "settings": {
+          "headers": [],
+          "tests": [
+            {
+              "type": "json-query",
+              "value": "Fatburger",
+              "action": "equal",
+              "custom": "json.destination_name"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "e74dd957-3d8c-49ce-87c1-ad47db892e30",
+        "name": "Gateway Toyota",
+        "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
+        "created": "2023-02-02T23:13:21.2573242+00:00",
+        "sortNum": 650,
+        "settings": {
+          "headers": [],
+          "tests": [
+            {
+              "type": "json-query",
+              "value": "Gateway Toyota",
+              "action": "equal",
+              "custom": "json.destination_name"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "cec74124-990c-4af0-bb98-988c2e4cf894",
+        "name": "General",
+        "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
+        "created": "2023-02-02T23:13:21.2574079+00:00",
+        "sortNum": 670,
+        "settings": {
+          "headers": [],
+          "tests": []
+        }
+      },
+      {
+        "_id": "291bb628-6315-49c0-97a3-bf71aa2c65e2",
+        "name": "Keep existing destination",
+        "containerId": "cec74124-990c-4af0-bb98-988c2e4cf894",
+        "created": "2023-02-02T23:13:21.2575311+00:00",
+        "sortNum": 860,
+        "settings": {
+          "headers": [],
+          "tests": [
+            {
+              "type": "json-query",
+              "value": "myDest",
+              "action": "equal",
+              "custom": "json.destination_name"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "9b9d3afc-ea22-430c-98bd-158596afb7aa",
+        "name": "Keep Source Id",
+        "containerId": "cec74124-990c-4af0-bb98-988c2e4cf894",
+        "created": "2023-02-02T23:13:21.2574138+00:00",
+        "sortNum": 880,
+        "settings": {
+          "headers": [],
+          "tests": [
+            {
+              "type": "json-query",
+              "value": "7",
+              "action": "equal",
+              "custom": "json.source_id"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "8750bc73-f150-4208-9936-0c1cd09be362",
+        "name": "Save existing data",
+        "containerId": "cec74124-990c-4af0-bb98-988c2e4cf894",
+        "created": "2023-02-02T23:13:21.2576045+00:00",
+        "sortNum": 1280,
+        "settings": {
+          "headers": [],
+          "tests": [
+            {
+              "type": "json-query",
+              "value": "Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE AHHHH BEEES 1234",
+              "action": "equal",
+              "custom": "json.description"
+            },
+            {
+              "type": "json-query",
+              "value": "withdrawal",
+              "action": "equal",
+              "custom": "json.type"
+            },
+            {
+              "type": "json-query",
+              "value": "2022-11-22T00:00:00+01:00",
+              "action": "equal",
+              "custom": "json.date"
+            },
+            {
+              "type": "json-query",
+              "value": "2024.81",
+              "action": "equal",
+              "custom": "json.amount"
+            },
+            {
+              "type": "json-query",
+              "value": "3",
+              "action": "equal",
+              "custom": "json.source_id"
+            },
+            {
+              "type": "json-query",
+              "value": "Groceries",
+              "action": "equal",
+              "custom": "json.bill_name"
+            },
+            {
+              "type": "json-query",
+              "value": "(no name)",
+              "action": "equal",
+              "custom": "json.destination_name"
+            },
+            {
+              "type": "json-query",
+              "value": "[\"beans\"]",
+              "action": "equal",
+              "custom": "json.tags"
+            },
+            {
+              "type": "json-query",
+              "value": "ff3-v5.7.17|api-v1.5.6",
+              "action": "equal",
+              "custom": "json.original_source"
+            },
+            {
+              "type": "json-query",
+              "value": "071724920338c87e6f6c7942c8f072fd648038b6e677d23c21fa1b58b4ce7c5b",
+              "action": "equal",
+              "custom": "json.import_hash_v2"
+            },
+            {
+              "type": "json-query",
+              "value": "foo",
+              "action": "equal",
+              "custom": "json.notes"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "c4b20770-197c-4a05-8622-5f71c3d4faf3",
+        "name": "Home Depot",
+        "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
+        "created": "2023-02-02T23:13:21.2770117+00:00",
+        "sortNum": 740,
+        "settings": {
+          "headers": [],
+          "tests": [
+            {
+              "type": "json-query",
+              "value": "Home Depot",
+              "action": "equal",
+              "custom": "json.destination_name"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "182f35f9-8ba5-499e-9552-c25e7e4a533e",
+        "name": "Homesense",
+        "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
+        "created": "2023-02-02T23:13:21.2770727+00:00",
+        "sortNum": 760,
+        "settings": {
+          "headers": [],
+          "tests": [
+            {
+              "type": "json-query",
+              "value": "HomeSense",
+              "action": "equal",
+              "custom": "json.destination_name"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "153185eb-88ad-467c-a7a2-613098465a59",
+        "name": "Hughes",
+        "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
+        "created": "2023-02-02T23:13:21.2771225+00:00",
+        "sortNum": 780,
+        "settings": {
+          "headers": [],
+          "tests": [
+            {
+              "type": "json-query",
+              "value": "Hughes",
+              "action": "equal",
+              "custom": "json.destination_name"
+            },
+            {
+              "type": "json-query",
+              "value": "Fuel",
+              "action": "equal",
+              "custom": "json.bill_name"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "d6f0142c-372f-4a3c-9777-cedd68120d42",
+        "name": "IHop",
+        "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
+        "created": "2023-02-02T23:13:21.2771878+00:00",
+        "sortNum": 800,
+        "settings": {
+          "headers": [],
+          "tests": [
+            {
+              "type": "json-query",
+              "value": "IHop",
+              "action": "equal",
+              "custom": "json.destination_name"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "bf5e4515-d515-4637-9c1c-75d8588d24ec",
+        "name": "IKEA",
+        "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
+        "created": "2023-02-02T23:13:21.2772379+00:00",
+        "sortNum": 820,
+        "settings": {
+          "headers": [],
+          "tests": [
+            {
+              "type": "json-query",
+              "value": "IKEA",
+              "action": "equal",
+              "custom": "json.destination_name"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "2873c7a9-e0df-4ce6-9df1-3b4a63ff599a",
+        "name": "JD Sports",
+        "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
+        "created": "2023-02-02T23:13:21.2772933+00:00",
+        "sortNum": 840,
+        "settings": {
+          "headers": [],
+          "tests": [
+            {
+              "type": "json-query",
+              "value": "JD Sports",
+              "action": "equal",
+              "custom": "json.destination_name"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "7e2ba3ba-568e-4950-bd5c-ce4273874645",
+        "name": "Lego Store",
+        "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
+        "created": "2023-02-02T23:13:21.2773419+00:00",
+        "sortNum": 890,
+        "settings": {
+          "headers": [],
+          "tests": [
+            {
+              "type": "json-query",
+              "value": "LEGO",
+              "action": "equal",
+              "custom": "json.destination_name"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "9654ea1d-4cea-4a43-9601-5d75a046d3d9",
+        "name": "Lowe's",
+        "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
+        "created": "2023-02-02T23:13:21.2774156+00:00",
+        "sortNum": 920,
+        "settings": {
+          "headers": [],
+          "tests": [
+            {
+              "type": "json-query",
+              "value": "Lowe's",
+              "action": "equal",
+              "custom": "json.destination_name"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "b7baa98b-059f-4a4a-bc58-dbc8e160090a",
+        "name": "McDonald's",
+        "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
+        "created": "2023-02-02T23:13:21.2774899+00:00",
+        "sortNum": 950,
+        "settings": {
+          "headers": [],
+          "tests": [
+            {
+              "type": "json-query",
+              "value": "McDonald's",
+              "action": "equal",
+              "custom": "json.destination_name"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "808e1710-2fe2-476a-9f9a-51fa4bee0db5",
+        "name": "Memory Express",
+        "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
+        "created": "2023-02-02T23:13:21.2775414+00:00",
+        "sortNum": 970,
+        "settings": {
+          "headers": [],
+          "tests": [
+            {
+              "type": "json-query",
+              "value": "Memory Express",
+              "action": "equal",
+              "custom": "json.destination_name"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "b9bdb407-ab74-4381-a82f-4b05a44dd68f",
+        "name": "Microsoft",
+        "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
+        "created": "2023-02-02T23:13:21.2776148+00:00",
+        "sortNum": 1000,
+        "settings": {
+          "headers": [],
+          "tests": [
+            {
+              "type": "json-query",
+              "value": "Microsoft",
+              "action": "equal",
+              "custom": "json.destination_name"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "c15d5fee-5951-45e1-8ef5-163d4ea4dc54",
+        "name": "Mogouyan",
+        "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
+        "created": "2023-02-02T23:13:21.277707+00:00",
+        "sortNum": 1040,
+        "settings": {
+          "headers": [],
+          "tests": [
+            {
+              "type": "json-query",
+              "value": "Mogouyan",
+              "action": "equal",
+              "custom": "json.destination_name"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "7c769594-9c6e-468c-b97b-84749a48bf6b",
+        "name": "Namaste India",
+        "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
+        "created": "2023-02-02T23:13:21.2778082+00:00",
+        "sortNum": 1060,
+        "settings": {
+          "headers": [],
+          "tests": [
+            {
+              "type": "json-query",
+              "value": "Namaste",
+              "action": "equal",
+              "custom": "json.destination_name"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "63968177-12c7-4ba9-99e2-3f13a1a33943",
+        "name": "Nando's",
+        "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
+        "created": "2023-02-02T23:13:21.2778609+00:00",
+        "sortNum": 1080,
+        "settings": {
+          "headers": [],
+          "tests": [
+            {
+              "type": "json-query",
+              "value": "Nando's",
+              "action": "equal",
+              "custom": "json.destination_name"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "46185e25-53b4-4a4c-a3fb-b9807dcfa5ae",
+        "name": "NAPA",
+        "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
+        "created": "2023-02-02T23:13:21.2777603+00:00",
+        "sortNum": 1100,
+        "settings": {
+          "headers": [],
+          "tests": [
+            {
+              "type": "json-query",
+              "value": "NAPA",
+              "action": "equal",
+              "custom": "json.destination_name"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "444ec542-cc0c-41ed-a2e9-3bbeccc4373a",
+        "name": "Nexus Mods",
+        "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
+        "created": "2023-02-02T23:13:21.2779526+00:00",
+        "sortNum": 1120,
+        "settings": {
+          "headers": [],
+          "tests": [
+            {
+              "type": "json-query",
+              "value": "Nexus Mods",
+              "action": "equal",
+              "custom": "json.destination_name"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "a84f57f6-da9e-49c0-93a0-c98d5a490480",
+        "name": "OEB Breakfast Co.",
+        "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
+        "created": "2023-02-02T23:13:21.2780114+00:00",
+        "sortNum": 1150,
+        "settings": {
+          "headers": [],
+          "tests": [
+            {
+              "type": "json-query",
+              "value": "OEB Breakfast Co.",
+              "action": "equal",
+              "custom": "json.destination_name"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "1e88f7bb-6ebc-4ec8-b2c6-92bc476fd627",
+        "name": "Petro Canada",
+        "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
+        "created": "2023-02-02T23:13:21.2780662+00:00",
+        "sortNum": 1180,
+        "settings": {
+          "headers": [],
+          "tests": [
+            {
+              "type": "json-query",
+              "value": "Petro-Canada",
+              "action": "equal",
+              "custom": "json.destination_name"
+            },
+            {
+              "type": "json-query",
+              "value": "Fuel",
+              "action": "equal",
+              "custom": "json.bill_name"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "a3cafd0f-e76f-420b-a619-dc76d9fa72bd",
+        "name": "Pizza 73",
+        "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
+        "created": "2023-02-02T23:13:21.2781222+00:00",
+        "sortNum": 1200,
+        "settings": {
+          "headers": [],
+          "tests": [
+            {
+              "type": "json-query",
+              "value": "Pizza 73",
+              "action": "equal",
+              "custom": "json.destination_name"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "0adf8154-3495-4ba8-beef-7ff3c8525290",
+        "name": "Puma",
+        "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
+        "created": "2023-02-02T23:13:21.2781751+00:00",
+        "sortNum": 1220,
+        "settings": {
+          "headers": [],
+          "tests": [
+            {
+              "type": "json-query",
+              "value": "Puma",
+              "action": "equal",
+              "custom": "json.destination_name"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "92801129-d48a-4c34-a79c-4f87b007e90b",
+        "name": "Rockin' Robyn's",
+        "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
+        "created": "2023-02-02T23:13:21.2782261+00:00",
+        "sortNum": 1240,
+        "settings": {
+          "headers": [],
+          "tests": [
+            {
+              "type": "json-query",
+              "value": "Rockin' Robyn's",
+              "action": "equal",
+              "custom": "json.destination_name"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "a0a4376b-f8d6-4421-b0dd-b81f2a705def",
+        "name": "Safeway",
+        "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
+        "created": "2023-02-02T23:13:21.2782839+00:00",
+        "sortNum": 1260,
+        "settings": {
+          "headers": [],
+          "tests": [
+            {
+              "type": "json-query",
+              "value": "Safeway",
+              "action": "equal",
+              "custom": "json.destination_name"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "43b48da7-21e8-4a12-93dd-f81a5b52a275",
+        "name": "Scotiabank",
+        "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
+        "created": "2023-02-02T23:13:21.2783325+00:00",
+        "sortNum": 1290,
+        "settings": {
+          "headers": [],
+          "tests": [
+            {
+              "type": "json-query",
+              "value": "Scotiabank",
+              "action": "equal",
+              "custom": "json.destination_name"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "89933f1b-a0f3-483a-8bd0-255da5cf0c57",
+        "name": "Shell",
+        "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
+        "created": "2023-02-02T23:13:21.2783818+00:00",
+        "sortNum": 1320,
+        "settings": {
+          "headers": [],
+          "tests": [
+            {
+              "type": "json-query",
+              "value": "Shell",
+              "action": "equal",
+              "custom": "json.destination_name"
+            },
+            {
+              "type": "json-query",
+              "value": "Fuel",
+              "action": "equal",
+              "custom": "json.bill_name"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "1f724d81-f7b3-4ca8-8b26-d06a4eaad46c",
+        "name": "SkipTheDishes",
+        "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
+        "created": "2023-02-02T23:13:21.2784639+00:00",
+        "sortNum": 1350,
+        "settings": {
+          "headers": [],
+          "tests": [
+            {
+              "type": "json-query",
+              "value": "SkipTheDishes",
+              "action": "equal",
+              "custom": "json.destination_name"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "83453094-6ea6-4825-9cb4-c545373fbae4",
+        "name": "Spotify",
+        "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
+        "created": "2023-02-02T23:13:21.2785384+00:00",
+        "sortNum": 1380,
+        "settings": {
+          "headers": [],
+          "tests": [
+            {
+              "type": "json-query",
+              "value": "Spotify",
+              "action": "equal",
+              "custom": "json.destination_name"
+            },
+            {
+              "type": "json-query",
+              "value": "Subscription Services",
+              "action": "equal",
+              "custom": "json.bill_name"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "80655c1d-ed5d-4e0e-85e6-2e12c7fa4126",
+        "name": "Steam",
+        "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
+        "created": "2023-02-02T23:13:21.2785954+00:00",
+        "sortNum": 1420,
+        "settings": {
+          "headers": [],
+          "tests": [
+            {
+              "type": "json-query",
+              "value": "Steam",
+              "action": "equal",
+              "custom": "json.destination_name"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "a96240ec-472b-4ece-8d7f-4dfca229fe06",
+        "name": "Superstore",
+        "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
+        "created": "2023-02-02T23:13:21.2786669+00:00",
+        "sortNum": 1460,
+        "settings": {
+          "headers": [],
+          "tests": [
+            {
+              "type": "json-query",
+              "value": "Real Canadian Superstore",
+              "action": "equal",
+              "custom": "json.destination_name"
+            },
+            {
+              "type": "json-query",
+              "value": "Groceries",
+              "action": "equal",
+              "custom": "json.bill_name"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "06861f5e-11fc-4b7c-aa60-d8588c4a88d4",
+        "name": "TD Insurance",
+        "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
+        "created": "2023-02-02T23:13:21.2787255+00:00",
+        "sortNum": 1480,
+        "settings": {
+          "headers": [],
+          "tests": [
+            {
+              "type": "json-query",
+              "value": "TD Insurance",
+              "action": "equal",
+              "custom": "json.destination_name"
+            },
+            {
+              "type": "json-query",
+              "value": "Vehicle Insurance",
+              "action": "equal",
+              "custom": "json.bill_name"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "d05c29f4-dac8-494a-ae8c-f4d659a3691c",
+        "name": "Telus",
+        "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
+        "created": "2023-02-02T23:13:21.278786+00:00",
+        "sortNum": 1500,
+        "settings": {
+          "headers": [],
+          "tests": [
+            {
+              "type": "json-query",
+              "value": "Telus",
+              "action": "equal",
+              "custom": "json.destination_name"
+            },
+            {
+              "type": "json-query",
+              "value": "Internet",
+              "action": "equal",
+              "custom": "json.bill_name"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "f5a2bbf3-23a5-45bf-9159-0fe05cfd82e6",
+        "name": "Toyota on the Trail",
+        "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
+        "created": "2023-02-02T23:13:21.2788406+00:00",
+        "sortNum": 1520,
+        "settings": {
+          "headers": [],
+          "tests": [
+            {
+              "type": "json-query",
+              "value": "Toyota on the Trail",
+              "action": "equal",
+              "custom": "json.destination_name"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "948e4484-0690-4fa0-8c9e-e5b559f75a95",
+        "name": "Trapped",
+        "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
+        "created": "2023-02-02T23:13:21.278911+00:00",
+        "sortNum": 1540,
+        "settings": {
+          "headers": [],
+          "tests": [
+            {
+              "type": "json-query",
+              "value": "Trapped",
+              "action": "equal",
+              "custom": "json.destination_name"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "4f40c00f-f8f1-42c3-9f01-f2babad680d5",
+        "name": "Tres Carnales",
+        "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
+        "created": "2023-02-02T23:13:21.2789747+00:00",
+        "sortNum": 1560,
+        "settings": {
+          "headers": [],
+          "tests": [
+            {
+              "type": "json-query",
+              "value": "Tres Carnales",
+              "action": "equal",
+              "custom": "json.destination_name"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "7adabdef-7f40-4684-8796-df932e40903b",
+        "name": "Ubisoft",
+        "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
+        "created": "2023-02-02T23:13:21.2790312+00:00",
+        "sortNum": 1580,
+        "settings": {
+          "headers": [],
+          "tests": [
+            {
+              "type": "json-query",
+              "value": "Ubisoft",
+              "action": "equal",
+              "custom": "json.destination_name"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "6246a814-3e78-41cf-ba81-30db8e6ab6bc",
+        "name": "Virgin",
+        "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
+        "created": "2023-02-02T23:13:21.2791023+00:00",
+        "sortNum": 1650,
+        "settings": {
+          "headers": [],
+          "tests": [
+            {
+              "type": "json-query",
+              "value": "Virgin Mobile",
+              "action": "equal",
+              "custom": "json.destination_name"
+            },
+            {
+              "type": "json-query",
+              "value": "Phone",
+              "action": "equal",
+              "custom": "json.bill_name"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "4df0c4e4-0c9e-420b-a748-527860b2dd15",
+        "name": "Walmart",
+        "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
+        "created": "2023-02-02T23:13:21.2792027+00:00",
+        "sortNum": 1690,
+        "settings": {
+          "headers": [],
+          "tests": [
+            {
+              "type": "json-query",
+              "value": "Walmart",
+              "action": "equal",
+              "custom": "json.destination_name"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "ada0457b-20cb-4e63-a372-8582f28f13ba",
+        "name": "Wheaton Honda",
+        "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
+        "created": "2023-02-02T23:13:21.2792521+00:00",
+        "sortNum": 1710,
+        "settings": {
+          "headers": [],
+          "tests": [
+            {
+              "type": "json-query",
+              "value": "Wheaton Honda",
+              "action": "equal",
+              "custom": "json.destination_name"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "bb2fe0ed-2ad2-4833-942b-731c2ceab8ab",
+        "name": "Winners",
+        "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
+        "created": "2023-02-02T23:13:21.2793047+00:00",
+        "sortNum": 1730,
+        "settings": {
+          "headers": [],
+          "tests": [
+            {
+              "type": "json-query",
+              "value": "Winners",
+              "action": "equal",
+              "custom": "json.destination_name"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "69bc6ed8-8171-4ffb-bc78-71f6be11c315",
+        "name": "Youtube",
+        "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
+        "created": "2023-02-02T23:13:21.279355+00:00",
+        "sortNum": 1740,
+        "settings": {
+          "headers": [],
+          "tests": [
+            {
+              "type": "json-query",
+              "value": "Youtube",
+              "action": "equal",
+              "custom": "json.destination_name"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "47fd1d03-a5f4-4b98-b130-51d35e09f00e",
+        "name": "NodeRed Stuff",
+        "containerId": "",
+        "created": "2023-02-05T22:12:05.116Z",
+        "sortNum": 1140,
+        "settings": {
+          "headers": [],
+          "tests": []
+        }
+      }
+    ],
+    "settings": {
+      "headers": [],
+      "tests": [],
+      "envId": "5eb8dd24-a589-4700-9fa1-b20331bf6817",
+      "runOptions": {
+        "delay": 0,
+        "iterations": 1,
+        "dataFilePath": ""
+      }
+    }
+  },
+  {
+    "_id": "64dc1d5b-787a-4f30-8c05-a30607f84af1",
+    "colName": "Firefly-III-pp",
+    "created": "2023-02-01T22:25:52.68Z",
+    "sortNum": 20000,
+    "folders": [
+      {
+        "_id": "af55306c-aebf-4c4b-86b2-ed93e2d3e1d6",
+        "name": "Firefly-III",
+        "containerId": "",
+        "created": "2023-02-01T22:27:04.028Z",
+        "sortNum": 10000,
+        "settings": {
+          "headers": [],
+          "tests": []
+        }
+      },
+      {
+        "_id": "bc210543-647f-4bb9-83aa-3b7a3fc0cea2",
+        "name": "Runner",
+        "containerId": "",
+        "created": "2023-02-01T22:27:20.091Z",
+        "sortNum": 30000,
+        "settings": {
+          "headers": [],
+          "tests": []
+        }
+      },
+      {
+        "_id": "a30c041b-e2fe-4f67-989c-a7789e19c06f",
+        "name": "Thunder",
+        "containerId": "",
+        "created": "2023-02-01T22:27:27.515Z",
+        "sortNum": 40000,
+        "settings": {
+          "headers": [],
+          "tests": []
+        }
+      },
+      {
+        "_id": "6171b6da-f6b1-4b3b-a23b-7e747744d4bc",
+        "name": "Node-Red",
+        "containerId": "",
+        "created": "2023-02-05T23:12:34.738Z",
+        "sortNum": 50000,
+        "settings": {
+          "headers": [],
+          "tests": []
+        }
+      }
+    ],
+    "settings": {
+      "headers": [],
+      "tests": [],
+      "envId": "781e6128-ed44-41c5-bb81-c6709f552e48"
+    }
+  },
+  {
+    "_id": "6c78395b-4152-4d23-a01a-64ca932e9272",
+    "colName": "Firefly-III",
+    "created": "2023-02-01T22:33:28.251Z",
+    "sortNum": 30000,
+    "folders": [],
+    "settings": {
+      "headers": [],
+      "auth": {
+        "type": "bearer",
+        "bearer": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIzIiwianRpIjoiOTA0ZGMwZTI5MjM2OTUwNTIwNjBiMjQxZWY5YjM2OTU1NmE3YjMzNDAwNTMyOWRiMDEyYjcxMDJjYmZjZGY1Y2FhMWI0ODFjZmEzNTdiYzciLCJpYXQiOjE2NzI1OTM3MzIuNTA2MjgzLCJuYmYiOjE2NzI1OTM3MzIuNTA2Mjg2LCJleHAiOjE3MDQxMjk3MzIuMzYyNTU0LCJzdWIiOiIxIiwic2NvcGVzIjpbXX0.z0nDGtZhhlYdOpyUtklj7nX1xXm1uMybJlp3GSJIu37zhowXmRN2_PlBsPdjfLA2HVDnSHC6vsU4-rmGef6r3WuzrZIM9xGg6C7OfaphrSiuSR7rAW7dlEblzhMnSaYAV-Aczb-pE1LMSrg1EsCz6GxWLwP8akMIcnPSS0jVUzwkx_i6RJ4sUL8GE_wx_xaIuknQ3uIk7WNOto2TL4lkOeDyx9J4eR4nCiJJnYKrBiToC15N_Qhamdzaa9Ox_gGUFNODLmfNJrtTqVCKxRkpzFimvIgTEeUp6NOPUPwnVsQ17A3a3hXMLCGeTnEi3tJbtCeur1_Dobu9oFGXqFYCB0u6yUk1KXvetFwfPStuqUcUPRxoAxN86n3usECObGYNlLFxEbD0YIlnosf9Pi0aAEjQ1D_p9Mmf4IcETUj_jkIC44hBuw2ptkdyTvpTa4JsFFu8X1vKZ-BkFaQmqv8sBH3F0SLw2GsDT1u0MStEB1RMqyWyCxy2IqYxYxFI_VgFLMcaXP1lKGI3xCBk_KIctYurs2TlSerndbFChpidbkQLLMzJgrr_euGD27OgTPWG6RZXglMoz_DnO9oOgRFlE0ITwkolHyAu7fWa1Iw-WsrYA0iLDvog7Jk3muXknPucv2hYVce7n_kKwX98rGiJT65gy_5ZOjkkLILa4_noVWc"
+      },
+      "tests": [],
+      "options": {
+        "baseUrl": "http://docker-selfhosted:8080"
+      },
+      "envId": "c8ea0575-fcaa-49fd-91a8-4668f50ac628"
+    }
+  }
+]
