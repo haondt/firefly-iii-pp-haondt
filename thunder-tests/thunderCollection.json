@@ -122,7 +122,7 @@
         "name": "United Sport & Cycle",
         "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
         "created": "2023-02-02T23:13:21.254758+00:00",
-        "sortNum": 1880,
+        "sortNum": 1940,
         "settings": {
           "headers": [],
           "tests": [
@@ -1074,7 +1074,7 @@
         "name": "Spotify",
         "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
         "created": "2023-02-02T23:13:21.2785384+00:00",
-        "sortNum": 1590,
+        "sortNum": 1610,
         "settings": {
           "headers": [],
           "tests": [
@@ -1098,7 +1098,7 @@
         "name": "Steam",
         "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
         "created": "2023-02-02T23:13:21.2785954+00:00",
-        "sortNum": 1650,
+        "sortNum": 1670,
         "settings": {
           "headers": [],
           "tests": [
@@ -1116,7 +1116,7 @@
         "name": "Superstore",
         "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
         "created": "2023-02-02T23:13:21.2786669+00:00",
-        "sortNum": 1690,
+        "sortNum": 1710,
         "settings": {
           "headers": [],
           "tests": [
@@ -1140,21 +1140,21 @@
         "name": "TD Insurance",
         "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
         "created": "2023-02-02T23:13:21.2787255+00:00",
-        "sortNum": 1710,
+        "sortNum": 1730,
         "settings": {
           "headers": [],
           "tests": [
             {
               "type": "json-query",
-              "value": "TD Insurance",
+              "custom": "json.destination_name",
               "action": "equal",
-              "custom": "json.destination_name"
+              "value": "TD Insurance"
             },
             {
               "type": "json-query",
-              "value": "Vehicle Insurance",
+              "custom": "json.bill_name",
               "action": "equal",
-              "custom": "json.bill_name"
+              "value": "Vehicle Insurance and Registration"
             }
           ]
         }
@@ -1164,7 +1164,7 @@
         "name": "Telus",
         "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
         "created": "2023-02-02T23:13:21.278786+00:00",
-        "sortNum": 1730,
+        "sortNum": 1750,
         "settings": {
           "headers": [],
           "tests": [
@@ -1188,7 +1188,7 @@
         "name": "Toyota on the Trail",
         "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
         "created": "2023-02-02T23:13:21.2788406+00:00",
-        "sortNum": 1770,
+        "sortNum": 1810,
         "settings": {
           "headers": [],
           "tests": [
@@ -1206,7 +1206,7 @@
         "name": "Trapped",
         "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
         "created": "2023-02-02T23:13:21.278911+00:00",
-        "sortNum": 1790,
+        "sortNum": 1830,
         "settings": {
           "headers": [],
           "tests": [
@@ -1224,7 +1224,7 @@
         "name": "Tres Carnales",
         "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
         "created": "2023-02-02T23:13:21.2789747+00:00",
-        "sortNum": 1810,
+        "sortNum": 1850,
         "settings": {
           "headers": [],
           "tests": [
@@ -1242,7 +1242,7 @@
         "name": "Ubisoft",
         "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
         "created": "2023-02-02T23:13:21.2790312+00:00",
-        "sortNum": 1850,
+        "sortNum": 1890,
         "settings": {
           "headers": [],
           "tests": [
@@ -1260,7 +1260,7 @@
         "name": "Virgin",
         "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
         "created": "2023-02-02T23:13:21.2791023+00:00",
-        "sortNum": 1920,
+        "sortNum": 1980,
         "settings": {
           "headers": [],
           "tests": [
@@ -1284,7 +1284,7 @@
         "name": "Walmart",
         "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
         "created": "2023-02-02T23:13:21.2792027+00:00",
-        "sortNum": 1960,
+        "sortNum": 2020,
         "settings": {
           "headers": [],
           "tests": [
@@ -1302,7 +1302,7 @@
         "name": "Wheaton Honda",
         "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
         "created": "2023-02-02T23:13:21.2792521+00:00",
-        "sortNum": 1980,
+        "sortNum": 2040,
         "settings": {
           "headers": [],
           "tests": [
@@ -1320,7 +1320,7 @@
         "name": "Winners",
         "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
         "created": "2023-02-02T23:13:21.2793047+00:00",
-        "sortNum": 2000,
+        "sortNum": 2060,
         "settings": {
           "headers": [],
           "tests": [
@@ -1338,7 +1338,7 @@
         "name": "Youtube",
         "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
         "created": "2023-02-02T23:13:21.279355+00:00",
-        "sortNum": 2030,
+        "sortNum": 2090,
         "settings": {
           "headers": [],
           "tests": [
@@ -1403,7 +1403,7 @@
         "name": "Spool3D",
         "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
         "created": "2023-02-07T00:01:48.1029133+00:00",
-        "sortNum": 1550,
+        "sortNum": 1570,
         "settings": {
           "headers": [],
           "tests": [
@@ -1421,7 +1421,7 @@
         "name": "Uber Eats",
         "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
         "created": "2023-02-07T00:03:33.7735+00:00",
-        "sortNum": 1830,
+        "sortNum": 1870,
         "settings": {
           "headers": [],
           "tests": [
@@ -1493,7 +1493,7 @@
         "name": "Starbucks",
         "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
         "created": "2023-02-07T00:13:14.4487822+00:00",
-        "sortNum": 1610,
+        "sortNum": 1630,
         "settings": {
           "headers": [],
           "tests": [
@@ -1511,7 +1511,7 @@
         "name": "Wok Box",
         "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
         "created": "2023-02-07T00:14:27.592591+00:00",
-        "sortNum": 2010,
+        "sortNum": 2070,
         "settings": {
           "headers": [],
           "tests": [
@@ -1529,7 +1529,7 @@
         "name": "The Hexagon Board Game Cafe",
         "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
         "created": "2023-02-07T00:15:48.4364663+00:00",
-        "sortNum": 1750,
+        "sortNum": 1770,
         "settings": {
           "headers": [],
           "tests": [
@@ -1583,13 +1583,103 @@
         "name": "Sport Check",
         "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
         "created": "2023-02-07T00:21:38.0476248+00:00",
-        "sortNum": 1570,
+        "sortNum": 1590,
         "settings": {
           "headers": [],
           "tests": [
             {
               "type": "json-query",
               "value": "Sport Check",
+              "action": "equal",
+              "custom": "json.destination_name"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "f35ef3ee-15b3-4aad-b263-bd7868d051ca",
+        "name": "Spencers Gifts",
+        "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
+        "created": "2023-02-08T13:39:21.8339412+00:00",
+        "sortNum": 1550,
+        "settings": {
+          "headers": [],
+          "tests": [
+            {
+              "type": "json-query",
+              "value": "Spencers Gifts",
+              "action": "equal",
+              "custom": "json.destination_name"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "ae653535-d4f3-45bc-b6a2-8d6e70463186",
+        "name": "The Source",
+        "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
+        "created": "2023-02-08T13:40:58.8160922+00:00",
+        "sortNum": 1790,
+        "settings": {
+          "headers": [],
+          "tests": [
+            {
+              "type": "json-query",
+              "value": "The Source",
+              "action": "equal",
+              "custom": "json.destination_name"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "7340fb4b-f2de-4409-b3ea-a7d010c86dc2",
+        "name": "Zumiez",
+        "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
+        "created": "2023-02-08T13:42:15.1556194+00:00",
+        "sortNum": 2130,
+        "settings": {
+          "headers": [],
+          "tests": [
+            {
+              "type": "json-query",
+              "value": "Zumiez",
+              "action": "equal",
+              "custom": "json.destination_name"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "caaafc14-d418-4f75-8a2c-81a9cc1c5d33",
+        "name": "Zara",
+        "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
+        "created": "2023-02-08T13:43:06.9312713+00:00",
+        "sortNum": 2110,
+        "settings": {
+          "headers": [],
+          "tests": [
+            {
+              "type": "json-query",
+              "value": "Zara",
+              "action": "equal",
+              "custom": "json.destination_name"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "597015fc-fb88-4ee4-a03e-168a3d2293be",
+        "name": "Uniqlo",
+        "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
+        "created": "2023-02-08T13:44:21.3786151+00:00",
+        "sortNum": 1920,
+        "settings": {
+          "headers": [],
+          "tests": [
+            {
+              "type": "json-query",
+              "value": "Uniqlo",
               "action": "equal",
               "custom": "json.destination_name"
             }
