@@ -43,7 +43,7 @@ def stat(cache_file_name):
 
 def main():
     cache_file_name = 'cache.json'
-    #pull(cache_file_name)
+    pull(cache_file_name)
     stat(cache_file_name)
 
 main()
