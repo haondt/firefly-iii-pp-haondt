@@ -39,7 +39,7 @@ def stat(cache_file_name):
 
     d = [(k, d[k]) for k in d]
     d = sorted(d, key=lambda t: t[1], reverse=True)
-    print('\n'.join([str(i) for i in d[:10]]))
+    print('\n'.join([str(i) for i in d[:20]]))
 
 def main():
     cache_file_name = 'cache.json'
