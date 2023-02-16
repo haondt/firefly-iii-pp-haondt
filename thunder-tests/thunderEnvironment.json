@@ -23,7 +23,7 @@
     "data": [
       {
         "name": "base_url",
-        "value": "localhost:32323/api/v1"
+        "value": "localhost:9091/api/v1"
       }
     ]
   },
