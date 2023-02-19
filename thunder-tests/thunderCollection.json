@@ -1353,17 +1353,6 @@
         }
       },
       {
-        "_id": "47fd1d03-a5f4-4b98-b130-51d35e09f00e",
-        "name": "NodeRed Stuff",
-        "containerId": "",
-        "created": "2023-02-05T22:12:05.116Z",
-        "sortNum": 2700,
-        "settings": {
-          "headers": [],
-          "tests": []
-        }
-      },
-      {
         "_id": "04688227-56cd-4e53-928e-195d46949e90",
         "name": "Move Learn Play",
         "containerId": "ebb55e05-91a4-4b58-aeae-da571531f3df",
@@ -3657,12 +3646,7 @@
     "settings": {
       "headers": [],
       "tests": [],
-      "envId": "5eb8dd24-a589-4700-9fa1-b20331bf6817",
-      "runOptions": {
-        "delay": 0,
-        "iterations": 1,
-        "dataFilePath": ""
-      }
+      "envId": "5eb8dd24-a589-4700-9fa1-b20331bf6817"
     }
   },
   {

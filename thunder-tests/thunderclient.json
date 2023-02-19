@@ -1891,20 +1891,6 @@
     "tests": []
   },
   {
-    "_id": "5ab6fc60-d0f8-4d20-85f4-a80208d971b7",
-    "colId": "ad2c2845-67d0-43b1-8673-6f2dadc0b896",
-    "containerId": "47fd1d03-a5f4-4b98-b130-51d35e09f00e",
-    "name": "Export flows",
-    "url": "{{base_url}}/export-flows",
-    "method": "POST",
-    "sortNum": 1360,
-    "created": "2023-02-05T22:12:16.894Z",
-    "modified": "2023-02-05T22:53:25.374Z",
-    "headers": [],
-    "params": [],
-    "tests": []
-  },
-  {
     "_id": "4896debe-4c1f-46ae-8a4c-9fedac25823a",
     "colId": "64dc1d5b-787a-4f30-8c05-a30607f84af1",
     "containerId": "6171b6da-f6b1-4b3b-a23b-7e747744d4bc",
