@@ -13,12 +13,7 @@
         "sortNum": 1010,
         "settings": {
           "headers": [],
-          "tests": [],
-          "runOptions": {
-            "delay": 0,
-            "iterations": 1,
-            "dataFilePath": ""
-          }
+          "tests": []
         }
       },
       {
@@ -2669,9 +2664,9 @@
           "tests": [
             {
               "type": "json-query",
-              "value": "Unknown Internet Banking Transfer",
+              "custom": "json.destination_name",
               "action": "equal",
-              "custom": "json.destination_name"
+              "value": "(no name)"
             }
           ]
         }

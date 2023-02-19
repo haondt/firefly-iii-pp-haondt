@@ -1,5 +1,1698 @@
-
 {
-    "keys":[],
-    "values":[]
+  "keys": [
+    {
+      "key": "*1UPKEYB",
+      "value": "1UP Keyboards"
+    },
+    {
+      "key": "A&W-CAP CORNER",
+      "value": "A&W"
+    },
+    {
+      "key": "A&W",
+      "value": "A&W"
+    },
+    {
+      "key": "ABCO",
+      "value": "ABco"
+    },
+    {
+      "key": "aliexpress",
+      "value": "AliExpress"
+    },
+    {
+      "key": "*ALIPAYS",
+      "value": "AliExpress"
+    },
+    {
+      "key": "WWW.ALIEXPRESS.",
+      "value": "AliExpress"
+    },
+    {
+      "key": "AMA CENTRE",
+      "value": "AMA"
+    },
+    {
+      "key": "Amazon.ca",
+      "value": "Amazon"
+    },
+    {
+      "key": "AMZN Mktp CA",
+      "value": "Amazon"
+    },
+    {
+      "key": "Amazon.ca Prime",
+      "value": "Amazon"
+    },
+    {
+      "key": "Amazon.ca Prime Member   amazon.ca/priBC",
+      "value": "Amazon"
+    },
+    {
+      "key": "Amazon *Marketp",
+      "value": "Amazon"
+    },
+    {
+      "key": "SQ *ANDREW GLAZEBROOK FIN",
+      "value": "Andrew Glazebrook"
+    },
+    {
+      "key": "ASAPA ANIMETHON",
+      "value": "Animethon"
+    },
+    {
+      "key": "*APEXKB",
+      "value": "ApexKeyboards"
+    },
+    {
+      "key": "APPLE STORE",
+      "value": "Apple"
+    },
+    {
+      "key": "APPLE.COM/BILL",
+      "value": "Apple"
+    },
+    {
+      "key": "AURORA CANNABIS",
+      "value": "Aurora Cannabis"
+    },
+    {
+      "key": "BR FACTORY CA",
+      "value": "Banana Republic"
+    },
+    {
+      "key": "*BANGGOO",
+      "value": "Banggood"
+    },
+    {
+      "key": "BLAZE PIZZA",
+      "value": "Blaze Pizza"
+    },
+    {
+      "key": "BLOCS",
+      "value": "BLOCS"
+    },
+    {
+      "key": "BLOWERS & GRAFTON (EDMONT",
+      "value": "Blowers & Grafton"
+    },
+    {
+      "key": "BLUENOTES",
+      "value": "Bluenotes"
+    },
+    {
+      "key": "BOOSTER JUICE #",
+      "value": "Booster Juice"
+    },
+    {
+      "key": "BOSTON PIZZA",
+      "value": "Boston Pizza"
+    },
+    {
+      "key": "CALENDAR CLUB OF CANADA #",
+      "value": "Calendar Club"
+    },
+    {
+      "key": "SPRING",
+      "value": "Call It Spring"
+    },
+    {
+      "key": "NSLSC",
+      "value": "Canada Student Loan"
+    },
+    {
+      "key": "CDN TIRE STORE",
+      "value": "Canadian Tire"
+    },
+    {
+      "key": "CANADIAN TIRE #",
+      "value": "Canadian Tire"
+    },
+    {
+      "key": "WWW.CANADIANTIRE.CA      8667467287   ON",
+      "value": "Canadian Tire"
+    },
+    {
+      "key": "*CDKEYS.",
+      "value": "CDKeys"
+    },
+    {
+      "key": "CDKEYS.COM               Hertfordshire",
+      "value": "CDKeys"
+    },
+    {
+      "key": "CHICK N FLAMES",
+      "value": "Chick N Flames"
+    },
+    {
+      "key": "CINEPLEX",
+      "value": "Cineplex"
+    },
+    {
+      "key": "CITYOFEDMONTON-MOVELEARNP",
+      "value": "City of Edmonton"
+    },
+    {
+      "key": "CMD STORE 866-9",
+      "value": "CmdStore"
+    },
+    {
+      "key": "LEDUC CO-OP GAS",
+      "value": "Co-op"
+    },
+    {
+      "key": "COCO TEA",
+      "value": "Coco Tea"
+    },
+    {
+      "key": "COINAMATIC",
+      "value": "Coinamatic"
+    },
+    {
+      "key": "WWW COSTCO CA",
+      "value": "Costco"
+    },
+    {
+      "key": "COSTCO GAS W258",
+      "value": "Costco Gas"
+    },
+    {
+      "key": "DAIRY QUEEN GRI",
+      "value": "Dairy Queen"
+    },
+    {
+      "key": "DAIRY QUEEN",
+      "value": "Dairy Queen"
+    },
+    {
+      "key": "DAVID'S TEA",
+      "value": "DAVIDsTEA"
+    },
+    {
+      "key": "Denny's Canada",
+      "value": "Denny's"
+    },
+    {
+      "key": "DENNY'S 03-072",
+      "value": "Denny's"
+    },
+    {
+      "key": "*DESIGNB",
+      "value": "Design by Humans"
+    },
+    {
+      "key": "DOLLARAMA",
+      "value": "Dollarama"
+    },
+    {
+      "key": "DOMINO'S",
+      "value": "Domino's"
+    },
+    {
+      "key": "DORINKU",
+      "value": "Dorinku"
+    },
+    {
+      "key": "DREAM TEA",
+      "value": "Dream Tea"
+    },
+    {
+      "key": "*EBAY CA",
+      "value": "Ebay"
+    },
+    {
+      "key": "EMILY EXPO EVEN",
+      "value": "Edmonton EXPO"
+    },
+    {
+      "key": "EDMONTON GUITAR",
+      "value": "Edmonton Guitar Music School"
+    },
+    {
+      "key": "STARTUPEDMONTON",
+      "value": "Edmonton Unlimited"
+    },
+    {
+      "key": "EDO JAPAN",
+      "value": "Edo Japan"
+    },
+    {
+      "key": "*EA INC",
+      "value": "Electronic Arts"
+    },
+    {
+      "key": "SEC - EMPIRE PA",
+      "value": "Empire Park"
+    },
+    {
+      "key": "NBX*RENT",
+      "value": "Empire Park"
+    },
+    {
+      "key": "EDM EPARK ONLINE PAY",
+      "value": "EPark"
+    },
+    {
+      "key": "EPCORWEBRECURRING",
+      "value": "Epcor"
+    },
+    {
+      "key": "KUBRA/EPCOR EZ-PAY FEE",
+      "value": "Epcor"
+    },
+    {
+      "key": "*EPICINT",
+      "value": "Epic Games"
+    },
+    {
+      "key": "EPC*EPIC GAMES STORE     919-854-0070",
+      "value": "Epic Games"
+    },
+    {
+      "key": "*ETSY.CO",
+      "value": "Etsy"
+    },
+    {
+      "key": "FATBURGER WESTL",
+      "value": "Fatburger"
+    },
+    {
+      "key": "FATBURGER SOUTH",
+      "value": "Fatburger"
+    },
+    {
+      "key": "FATBURGER SEC",
+      "value": "Fatburger"
+    },
+    {
+      "key": "*FEDEXCA",
+      "value": "FedEx"
+    },
+    {
+      "key": "FEDEX-YEGA",
+      "value": "FedEx"
+    },
+    {
+      "key": "A9Z4L8IG0000 FOOT LOCKER CAN",
+      "value": "Foot Locker"
+    },
+    {
+      "key": "FOOT LOCKER CAN",
+      "value": "Foot Locker"
+    },
+    {
+      "key": "FOOT LOCKER CANADA",
+      "value": "Foot Locker"
+    },
+    {
+      "key": "FOOT LOCKER",
+      "value": "Foot Locker"
+    },
+    {
+      "key": "FRESHII CALGARY TRAIL EDM",
+      "value": "Freshii"
+    },
+    {
+      "key": "*G2ACOML",
+      "value": "G2A"
+    },
+    {
+      "key": "SP GANDER DISC GOLF",
+      "value": "Gander Disc Golf"
+    },
+    {
+      "key": "GATEWAY TOYOTA",
+      "value": "Gateway Toyota"
+    },
+    {
+      "key": "GNC",
+      "value": "GNC"
+    },
+    {
+      "key": "GoFndMe* Raisin",
+      "value": "GoFundMe"
+    },
+    {
+      "key": "GOOGLE *TEMPORA",
+      "value": "Google"
+    },
+    {
+      "key": "GTFO ESCAPE ENT",
+      "value": "GTFO Escape Entertainment"
+    },
+    {
+      "key": "H & M CA #036 W",
+      "value": "H&M"
+    },
+    {
+      "key": "SQ *HANJAN SOUTH",
+      "value": "Hanjan South"
+    },
+    {
+      "key": "HIPI INDUSTRIES INC",
+      "value": "HiPi Industries"
+    },
+    {
+      "key": "THE HOME DEPOT",
+      "value": "Home Depot"
+    },
+    {
+      "key": "HOMESENSE",
+      "value": "HomeSense"
+    },
+    {
+      "key": "HUDSON'S BAY #1",
+      "value": "Hudson's Bay"
+    },
+    {
+      "key": "HUDSON'S BAY",
+      "value": "Hudson's Bay"
+    },
+    {
+      "key": "HUGHES PETROLEUM LTD #",
+      "value": "Hughes"
+    },
+    {
+      "key": "IHOP",
+      "value": "IHop"
+    },
+    {
+      "key": "IKEA EDMONTON",
+      "value": "IKEA"
+    },
+    {
+      "key": "ITALIAN CENTRE",
+      "value": "Italian Centre Shop"
+    },
+    {
+      "key": "JDSF Retail ( Canada ) In",
+      "value": "JD Sports"
+    },
+    {
+      "key": "JOEY BELL TOWER",
+      "value": "JOEY"
+    },
+    {
+      "key": "JOEY SOUTH COMM",
+      "value": "JOEY"
+    },
+    {
+      "key": "JUGO JUICE",
+      "value": "Jugo Juice"
+    },
+    {
+      "key": "*KBDFANS",
+      "value": "KBDfans"
+    },
+    {
+      "key": "KONZ PIZZA",
+      "value": "Konz Pizza"
+    },
+    {
+      "key": "LANDMARK 8 CITY CENTRE",
+      "value": "Landmark Cinemas"
+    },
+    {
+      "key": "LEDUC EYE CENTR",
+      "value": "Leduc Eye Centre"
+    },
+    {
+      "key": "LEDUC RECREATIO",
+      "value": "Leduc Recreation Centre"
+    },
+    {
+      "key": "LEGO, Southgate",
+      "value": "LEGO"
+    },
+    {
+      "key": "LEGO, West Edmonton Ma",
+      "value": "LEGO"
+    },
+    {
+      "key": "LENOVO (CANADA)",
+      "value": "Lenovo"
+    },
+    {
+      "key": "LINODE . AKAMAI",
+      "value": "Linode"
+    },
+    {
+      "key": "LOCAL SOUTH COM",
+      "value": "LOCAL Public Eatery"
+    },
+    {
+      "key": "LONDON DRUGS LI",
+      "value": "London Drugs"
+    },
+    {
+      "key": "LONDON DRUGS",
+      "value": "London Drugs"
+    },
+    {
+      "key": "LONG MCQUADE",
+      "value": "Long & McQuade"
+    },
+    {
+      "key": "LOWE'S EDMONTON SOUTH",
+      "value": "Lowe's"
+    },
+    {
+      "key": "LOWES",
+      "value": "Lowe's"
+    },
+    {
+      "key": "LUCKY LEMONS",
+      "value": "Lucky Lemons"
+    },
+    {
+      "key": "MARCOS FAMOUS",
+      "value": "Marco's Famous"
+    },
+    {
+      "key": "SP * MATERIACOL",
+      "value": "Materia Collective"
+    },
+    {
+      "key": "MCDONALD'S",
+      "value": "McDonald's"
+    },
+    {
+      "key": "MEMORY EXPRESS",
+      "value": "Memory Express"
+    },
+    {
+      "key": "MemoryExpress EDM S",
+      "value": "Memory Express"
+    },
+    {
+      "key": "Memory Express, Inc.",
+      "value": "Memory Express"
+    },
+    {
+      "key": "OCULUS *YA7WK8KFH2       oculus.com   CA",
+      "value": "Meta"
+    },
+    {
+      "key": "MICHAELS",
+      "value": "Michaels"
+    },
+    {
+      "key": "Microsoft*Store",
+      "value": "Microsoft"
+    },
+    {
+      "key": "Microsoft*Subscription",
+      "value": "Microsoft"
+    },
+    {
+      "key": "MICROSOFT*STORE          MSBILL.INFO  ON",
+      "value": "Microsoft"
+    },
+    {
+      "key": "*MIHOYOL",
+      "value": "miHoYo"
+    },
+    {
+      "key": "Mogouyan Hand Pulled N",
+      "value": "Mogouyan"
+    },
+    {
+      "key": "NAMASTE INDIA",
+      "value": "Namaste"
+    },
+    {
+      "key": "*NAMECHE",
+      "value": "Namecheap"
+    },
+    {
+      "key": "NANDO'S EDMONTON GATEW",
+      "value": "Nando's"
+    },
+    {
+      "key": "0241-NAPA EDMONTON SOU",
+      "value": "NAPA"
+    },
+    {
+      "key": "*NEXUSMO",
+      "value": "Nexus Mods"
+    },
+    {
+      "key": "WWW NORDVPN COM",
+      "value": "NordVPN"
+    },
+    {
+      "key": "*NORDVPN",
+      "value": "NordVPN"
+    },
+    {
+      "key": "*NOVELKE",
+      "value": "NovelKeys"
+    },
+    {
+      "key": "NUDORU RAMEN BA",
+      "value": "Nudoru"
+    },
+    {
+      "key": "FS *Nurgo-Software       Amsterdam",
+      "value": "Nurgo Software"
+    },
+    {
+      "key": "OEB BREAKFAST CO.",
+      "value": "OEB Breakfast Co."
+    },
+    {
+      "key": "OTTEWELL ANIMAL",
+      "value": "Ottewell Animal Clinic"
+    },
+    {
+      "key": "PANINI'S ITALIAN CUCINA",
+      "value": "Panini's Italian Cucina"
+    },
+    {
+      "key": "PAYLESS SHOESOU",
+      "value": "Payless"
+    },
+    {
+      "key": "PETLAND-SOUTHPA",
+      "value": "Petland"
+    },
+    {
+      "key": "PETROCAN-10560 51 AVE.",
+      "value": "Petro-Canada"
+    },
+    {
+      "key": "PETSMART INC. 0",
+      "value": "PetSmart"
+    },
+    {
+      "key": "PETSMART INC.",
+      "value": "PetSmart"
+    },
+    {
+      "key": "PIANO CENTRE",
+      "value": "Piano Centre"
+    },
+    {
+      "key": "PIZZA 73",
+      "value": "Pizza 73"
+    },
+    {
+      "key": "PLEASANTVIEW TO",
+      "value": "Pleasantview Townhomes"
+    },
+    {
+      "key": "000000000000000 RENTTRK MIDWEST",
+      "value": "Pleasantview Townhomes"
+    },
+    {
+      "key": "POUTINE WORLD",
+      "value": "Poutine World Food Truck"
+    },
+    {
+      "key": "PUMA SOUTH EDMONTON",
+      "value": "Puma"
+    },
+    {
+      "key": "RAMEN MISOYA ED",
+      "value": "Ramen Misoya"
+    },
+    {
+      "key": "SQ *RAWRY & POH",
+      "value": "Rawry & Pohly"
+    },
+    {
+      "key": "REAL CDN SUPERSTORE",
+      "value": "Real Canadian Superstore"
+    },
+    {
+      "key": "REAL CANADIAN SS",
+      "value": "Real Canadian Superstore"
+    },
+    {
+      "key": "*REDBUBB",
+      "value": "RedBubble"
+    },
+    {
+      "key": "000000000000000 RENT",
+      "value": "Rent"
+    },
+    {
+      "key": "REXALL PHARMACY",
+      "value": "Rexall"
+    },
+    {
+      "key": "RICE BOWL DELUX",
+      "value": "Rice Bowl Deluxe"
+    },
+    {
+      "key": "ROCKIN ROBYNS LTD",
+      "value": "Rockin' Robyn's"
+    },
+    {
+      "key": "RONA LEDUC",
+      "value": "RONA"
+    },
+    {
+      "key": "RW CO",
+      "value": "RW&CO."
+    },
+    {
+      "key": "RW & CO.",
+      "value": "RW&CO."
+    },
+    {
+      "key": "SAFEWAY",
+      "value": "Safeway"
+    },
+    {
+      "key": "ANNUAL FEE",
+      "value": "Scotiabank"
+    },
+    {
+      "key": "SHELL",
+      "value": "Shell"
+    },
+    {
+      "key": "SHELL DISCOVERY WAY",
+      "value": "Shell"
+    },
+    {
+      "key": "SHOPPERS DRUG M",
+      "value": "Shoppers Drug Mart"
+    },
+    {
+      "key": "SIGNATURES SHOWS LTD",
+      "value": "Signatures Shows"
+    },
+    {
+      "key": "SIMONS (WEM)",
+      "value": "Simons"
+    },
+    {
+      "key": "SKIPTHEDISHES",
+      "value": "SkipTheDishes"
+    },
+    {
+      "key": "SPENCERS GIFTS",
+      "value": "Spencers Gifts"
+    },
+    {
+      "key": "SPOOL3D - 3D PRINTING",
+      "value": "Spool3D"
+    },
+    {
+      "key": "#314 SPORT CHEK",
+      "value": "Sport Check"
+    },
+    {
+      "key": "SPOTIFY                  STOCKHOLM",
+      "value": "Spotify"
+    },
+    {
+      "key": "STAPLES.CA",
+      "value": "Staples"
+    },
+    {
+      "key": "STAPLES",
+      "value": "Staples"
+    },
+    {
+      "key": "STARBUCKS COFFEE",
+      "value": "Starbucks"
+    },
+    {
+      "key": "4259522985",
+      "value": "Steam"
+    },
+    {
+      "key": "*STEAM G",
+      "value": "Steam"
+    },
+    {
+      "key": "STEAM PURCHASE           SEATTLE",
+      "value": "Steam"
+    },
+    {
+      "key": "STEAMGAMES.COM 4259522985Hamburg",
+      "value": "Steam"
+    },
+    {
+      "key": "STREET",
+      "value": "Street (Clothing Store)"
+    },
+    {
+      "key": "SQ *SUB PHOTO",
+      "value": "SUB Photo"
+    },
+    {
+      "key": "SUBPRINT - STUD",
+      "value": "SUBprint"
+    },
+    {
+      "key": "SUBWAY",
+      "value": "Subway"
+    },
+    {
+      "key": "A3XI22NV0000 Subway",
+      "value": "Subway"
+    },
+    {
+      "key": "SECURITY NATIONAL INSURAN",
+      "value": "TD Insurance"
+    },
+    {
+      "key": "TELUS PRE-AUTH PAYMENT",
+      "value": "Telus"
+    },
+    {
+      "key": "TELUS COMM. WEB",
+      "value": "Telus"
+    },
+    {
+      "key": "TELUS MOBILITY",
+      "value": "Telus Mobility"
+    },
+    {
+      "key": "THE EASY RIDER",
+      "value": "The Easy Rider"
+    },
+    {
+      "key": "GAP CA",
+      "value": "The Gap"
+    },
+    {
+      "key": "THE HEXAGON BOA",
+      "value": "The Hexagon Board Game Cafe"
+    },
+    {
+      "key": "THE HEXAGON BOARD GAME CA",
+      "value": "The Hexagon Board Game Cafe"
+    },
+    {
+      "key": "OLD SPAGHETTI W",
+      "value": "The Old Spaghetti Factory"
+    },
+    {
+      "key": "*THEPIHU",
+      "value": "The Pi Hut"
+    },
+    {
+      "key": "THE SHERLOCK HOLMES PUB",
+      "value": "The Sherlock Holmes Pub"
+    },
+    {
+      "key": "*SOURCEB",
+      "value": "The Source"
+    },
+    {
+      "key": "SOURCE",
+      "value": "The Source"
+    },
+    {
+      "key": "U OF A CAB TIMS",
+      "value": "Tim Hortons"
+    },
+    {
+      "key": "TIM HORTONS",
+      "value": "Tim Hortons"
+    },
+    {
+      "key": "TOYOTA ON THE TRAIL",
+      "value": "Toyota on the Trail"
+    },
+    {
+      "key": "SQ *TRAPPED EDMONTON",
+      "value": "Trapped"
+    },
+    {
+      "key": "TRES CARNALES TAQUERIA",
+      "value": "Tres Carnales"
+    },
+    {
+      "key": "UBER* EATS",
+      "value": "Uber Eats"
+    },
+    {
+      "key": "UBER CANADA/UBEREATS",
+      "value": "Uber Eats"
+    },
+    {
+      "key": "UBISOFT",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "UBISOFT EMEA SAS         -            CA",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "UNIQLO WEST EDM",
+      "value": "Uniqlo"
+    },
+    {
+      "key": "UNIQLO WEST EDMONTON MALL",
+      "value": "Uniqlo"
+    },
+    {
+      "key": "UNITED SPORT & CYCLE",
+      "value": "United Sport & Cycle"
+    },
+    {
+      "key": "UNIVERSITY OF ALBERTA -TU",
+      "value": "University of Alberta"
+    },
+    {
+      "key": "UOFA BOOKSTORE",
+      "value": "University of Alberta Bookstore"
+    },
+    {
+      "key": "GOOGLE*SELLER",
+      "value": "Unknown Google Seller"
+    },
+    {
+      "key": "PAYPAL",
+      "value": "Unknown Paypal Transaction"
+    },
+    {
+      "key": "*LIXINXI",
+      "value": "Unknown Paypal Transaction"
+    },
+    {
+      "key": "*ZHUIJIE",
+      "value": "Unknown Paypal Transaction"
+    },
+    {
+      "key": "*ENDGAME",
+      "value": "Unknown Paypal Transaction"
+    },
+    {
+      "key": "*MBENTER",
+      "value": "Unknown Paypal Transaction"
+    },
+    {
+      "key": "URBAN OUTFITTERS",
+      "value": "Urban Outfitters"
+    },
+    {
+      "key": "VARSITY DRUG",
+      "value": "Varsity (HUB Mall)"
+    },
+    {
+      "key": "VIRGIN PLUS",
+      "value": "Virgin Mobile"
+    },
+    {
+      "key": "VIRGIN MOBILE",
+      "value": "Virgin Mobile"
+    },
+    {
+      "key": "SP * VITALY DES",
+      "value": "Vitaly"
+    },
+    {
+      "key": "WAL-MART SUPERCENTER",
+      "value": "Walmart"
+    },
+    {
+      "key": "WAL-MART",
+      "value": "Walmart"
+    },
+    {
+      "key": "*WASDKEY",
+      "value": "WASD Keyboards"
+    },
+    {
+      "key": "WETZELS PRETZEL",
+      "value": "Wetzel's Pretzels"
+    },
+    {
+      "key": "WHEATON HONDA",
+      "value": "Wheaton Honda"
+    },
+    {
+      "key": "WINNERS",
+      "value": "Winners"
+    },
+    {
+      "key": "WOK BOX",
+      "value": "Wok Box"
+    },
+    {
+      "key": "XO BISTRO & BAR",
+      "value": "XO Bistro"
+    },
+    {
+      "key": "YEH FROZEN YOG",
+      "value": "Yeh! Frozen Yogurt & Café"
+    },
+    {
+      "key": "GOOGLE *YouTube Member   g.co/helppay#NS",
+      "value": "Youtube"
+    },
+    {
+      "key": "ZARA WEM",
+      "value": "Zara"
+    },
+    {
+      "key": "ZUMIEZ",
+      "value": "Zumiez"
+    }
+  ],
+  "values": [
+    {
+      "key": "1UP Keyboards",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "A&W",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "ABco",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "AliExpress",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "AMA",
+      "value": "{\n    \"attributes\": {\n        \"bill_name\": \"Vehicle Insurance and Registration\"\n    },\n    \"add_tags\": []\n}"
+    },
+    {
+      "key": "Amazon",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Andrew Glazebrook",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Animethon",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "ApexKeyboards",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Apple",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Aurora Cannabis",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Banana Republic",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Banggood",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Blaze Pizza",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "BLOCS",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Blowers & Grafton",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Bluenotes",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Booster Juice",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Boston Pizza",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Calendar Club",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Call It Spring",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Canada Student Loan",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Canadian Tire",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "CDKeys",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Chick N Flames",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Cineplex",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "City of Edmonton",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "CmdStore",
+      "value": "{\n    \"attributes\": {},\n    \"add_tags\": [\n        \"Trade Shows\"\n    ]\n}"
+    },
+    {
+      "key": "Co-op",
+      "value": "{\n    \"attributes\": {\n        \"bill_name\": \"Fuel\"\n    },\n    \"add_tags\": []\n}"
+    },
+    {
+      "key": "Coco Tea",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Coinamatic",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Costco",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Costco Gas",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Dairy Queen",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "DAVIDsTEA",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Denny's",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Design by Humans",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Dollarama",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Domino's",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Dorinku",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Dream Tea",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Ebay",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Edmonton EXPO",
+      "value": "{\n    \"attributes\": {},\n    \"add_tags\": [\n        \"Trade Shows\"\n    ]\n}"
+    },
+    {
+      "key": "Edmonton Guitar Music School",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Edmonton Unlimited",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Edo Japan",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Electronic Arts",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Empire Park",
+      "value": "{\n    \"attributes\": {\n        \"bill_name\": \"Rent\"\n    },\n    \"add_tags\": []\n}"
+    },
+    {
+      "key": "EPark",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Epcor",
+      "value": "{\"attributes\":{\"bill_name\":\"Utilities\"},\"add_tags\":[]}"
+    },
+    {
+      "key": "Epic Games",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Etsy",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Fatburger",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "FedEx",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Foot Locker",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Freshii",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "G2A",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Gander Disc Golf",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Gateway Toyota",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "GNC",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "GoFundMe",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Google",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "GTFO Escape Entertainment",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "H&M",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Hanjan South",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "HiPi Industries",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Home Depot",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "HomeSense",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Hudson's Bay",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Hughes",
+      "value": "{\n    \"attributes\": {\n        \"bill_name\": \"Fuel\"\n    },\n    \"add_tags\": []\n}"
+    },
+    {
+      "key": "IHop",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "IKEA",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Italian Centre Shop",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "JD Sports",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "JOEY",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Jugo Juice",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "KBDfans",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Konz Pizza",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Landmark Cinemas",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Leduc Eye Centre",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Leduc Recreation Centre",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "LEGO",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Lenovo",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Linode",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "LOCAL Public Eatery",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "London Drugs",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Long & McQuade",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Lowe's",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Lucky Lemons",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Marco's Famous",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Materia Collective",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "McDonald's",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Memory Express",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Meta",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Michaels",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Microsoft",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "miHoYo",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Mogouyan",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Namaste",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Namecheap",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Nando's",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "NAPA",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Nexus Mods",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "NordVPN",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "NovelKeys",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Nudoru",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Nurgo Software",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "OEB Breakfast Co.",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Ottewell Animal Clinic",
+      "value": "{\"attributes\":{},\"add_tags\":[\"Oscar\"]}"
+    },
+    {
+      "key": "Panini's Italian Cucina",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Payless",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Petland",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Petro-Canada",
+      "value": "{\"attributes\":{\"bill_name\": \"Fuel\"},\"add_tags\":[]}"
+    },
+    {
+      "key": "PetSmart",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Piano Centre",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Pizza 73",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Pleasantview Townhomes",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Poutine World Food Truck",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Puma",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Ramen Misoya",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Rawry & Pohly",
+      "value": "{\"attributes\":{},\"add_tags\":[\"Trade Shows\"]}"
+    },
+    {
+      "key": "Real Canadian Superstore",
+      "value": "{\"attributes\":{\"bill_name\":\"Groceries\"},\"add_tags\":[]}"
+    },
+    {
+      "key": "RedBubble",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Rent",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Rexall",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Rice Bowl Deluxe",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Rockin' Robyn's",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "RONA",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "RW&CO.",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Safeway",
+      "value": "{\"attributes\":{\"bill_name\":\"Groceries\"},\"add_tags\":[]}"
+    },
+    {
+      "key": "Scotiabank",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Shell",
+      "value": "{\"attributes\":{\"bill_name\":\"Fuel\"},\"add_tags\":[]}"
+    },
+    {
+      "key": "Shoppers Drug Mart",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Signatures Shows",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Simons",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "SkipTheDishes",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Spencers Gifts",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Spool3D",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Sport Check",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Spotify",
+      "value": "{\"attributes\":{\"bill_name\":\"Subscription Services\"},\"add_tags\":[]}"
+    },
+    {
+      "key": "Staples",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Starbucks",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Steam",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Street (Clothing Store)",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "SUB Photo",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "SUBprint",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Subway",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "TD Insurance",
+      "value": "{\"attributes\":{\"bill_name\":\"Vehicle Insurance and Registration\"},\"add_tags\":[]}"
+    },
+    {
+      "key": "Telus",
+      "value": "{\"attributes\":{\"bill_name\":\"Internet\"},\"add_tags\":[]}"
+    },
+    {
+      "key": "Telus Mobility",
+      "value": "{\"attributes\":{\"bill_name\":\"Phone\"},\"add_tags\":[]}"
+    },
+    {
+      "key": "The Easy Rider",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "The Gap",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "The Hexagon Board Game Cafe",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "The Old Spaghetti Factory",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "The Pi Hut",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "The Sherlock Holmes Pub",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "The Source",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Tim Hortons",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Toyota on the Trail",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Trapped",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Tres Carnales",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Uber Eats",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Ubisoft",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Uniqlo",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "United Sport & Cycle",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "University of Alberta",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "University of Alberta Bookstore",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Unknown Google Seller",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Unknown Paypal Transaction",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Urban Outfitters",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Varsity (HUB Mall)",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Virgin Mobile",
+      "value": "{\"attributes\":{\"bill_name\":\"Phone\"},\"add_tags\":[]}"
+    },
+    {
+      "key": "Vitaly",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Walmart",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "WASD Keyboards",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Wetzel's Pretzels",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Wheaton Honda",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Winners",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Wok Box",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "XO Bistro",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Yeh! Frozen Yogurt & Café",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Youtube",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Zara",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Zumiez",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    }
+  ]
 }

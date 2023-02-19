@@ -1,4 +1,22 @@
 {
-  "keys": [],
-  "values": []
+  "keys": [
+    {
+      "key": "CIBC CARD PRODUCTS DIVISION",
+      "value": "CIBC VISA"
+    },
+    {
+      "key": "Wealthsimple Investments Inc.",
+      "value": "Wealthsimple TFSA"
+    }
+  ],
+  "values": [
+    {
+      "key": "CIBC VISA",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Wealthsimple TFSA",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    }
+  ]
 }
