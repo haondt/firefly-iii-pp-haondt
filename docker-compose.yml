@@ -3,7 +3,7 @@ version: "3.7"
 services:
   node-red:
     image: nodered/node-red:latest
-    container_name: nodered
+    container_name: nr
     environment:
       - TZ=America/Edmonton
     ports:
@@ -14,11 +14,17 @@ services:
       - ./flows_cred.json:/external/flows_cred.json
   pp:
     image: haumea/fireflyiii-pp:latest
-    container_name: fireflyiii-pp
+    container_name: pp
     ports:
       - 9091:80
     volumes:
       - ./thunder-tests:/thunder
+      - ./account-lookups:/keyValueStore
+    environment:
+      - DOTNET_KeyValueStoreSettings__Stores__assetAccounts__Path=assetAccounts.json
+      - DOTNET_KeyValueStoreSettings__Stores__assetAccounts__DefaultValueValue={"attributes":{},"add_tags":[]}
+      - DOTNET_KeyValueStoreSettings__Stores__expenseAccounts__Path=expenseAccounts.json
+      - DOTNET_KeyValueStoreSettings__Stores__expenseAccounts__DefaultValueValue={"attributes":{},"add_tags":[]}
 
 volumes:
   node-red-data:
