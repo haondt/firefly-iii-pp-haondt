@@ -233,6 +233,10 @@
       "value": "Edmonton Guitar Music School"
     },
     {
+      "key": "EDMONTON GUITAR MUSIC SCH",
+      "value": "Edmonton Guitar Music School"
+    },
+    {
       "key": "STARTUPEDMONTON",
       "value": "Edmonton Unlimited"
     },
@@ -262,6 +266,10 @@
     },
     {
       "key": "KUBRA/EPCOR EZ-PAY FEE",
+      "value": "Epcor"
+    },
+    {
+      "key": "EPCORENERGY-EZ-PAY",
       "value": "Epcor"
     },
     {
@@ -389,6 +397,10 @@
       "value": "Italian Centre Shop"
     },
     {
+      "key": "Jarred",
+      "value": "Jarred"
+    },
+    {
       "key": "JDSF Retail ( Canada ) In",
       "value": "JD Sports"
     },
@@ -411,6 +423,14 @@
     {
       "key": "KONZ PIZZA",
       "value": "Konz Pizza"
+    },
+    {
+      "key": "LA FITNESS",
+      "value": "LA Fitness"
+    },
+    {
+      "key": "LA FITNESS ANNUAL FEE",
+      "value": "LA Fitness"
     },
     {
       "key": "LANDMARK 8 CITY CENTRE",
@@ -438,6 +458,14 @@
     },
     {
       "key": "LINODE . AKAMAI",
+      "value": "Linode"
+    },
+    {
+      "key": "LINODE",
+      "value": "Linode"
+    },
+    {
+      "key": "AKAMAI TECHNOLOGIES, INC.",
       "value": "Linode"
     },
     {
@@ -701,6 +729,22 @@
       "value": "SkipTheDishes"
     },
     {
+      "key": "SF EDMONTON CALGARY TRAIL",
+      "value": "Snap Fitness"
+    },
+    {
+      "key": "SNAP FITNESS LEDUC",
+      "value": "Snap Fitness"
+    },
+    {
+      "key": "SF LEDUC",
+      "value": "Snap Fitness"
+    },
+    {
+      "key": "SNOW VALLEY GUEST SERVICE",
+      "value": "Snow Valley"
+    },
+    {
       "key": "SPENCERS GIFTS",
       "value": "Spencers Gifts"
     },
@@ -841,11 +885,19 @@
       "value": "U-Haul"
     },
     {
+      "key": "UBER* TRIP",
+      "value": "Uber"
+    },
+    {
       "key": "UBER* EATS",
       "value": "Uber Eats"
     },
     {
       "key": "UBER CANADA/UBEREATS",
+      "value": "Uber Eats"
+    },
+    {
+      "key": "UBER *EATS",
       "value": "Uber Eats"
     },
     {
@@ -1267,6 +1319,10 @@
       "value": "{\"attributes\":{},\"add_tags\":[]}"
     },
     {
+      "key": "Jarred",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
       "key": "JD Sports",
       "value": "{\"attributes\":{},\"add_tags\":[]}"
     },
@@ -1284,6 +1340,10 @@
     },
     {
       "key": "Konz Pizza",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "LA Fitness",
       "value": "{\"attributes\":{},\"add_tags\":[]}"
     },
     {
@@ -1523,6 +1583,14 @@
       "value": "{\"attributes\":{},\"add_tags\":[]}"
     },
     {
+      "key": "Snap Fitness",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Snow Valley",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
       "key": "Spencers Gifts",
       "value": "{\"attributes\":{},\"add_tags\":[]}"
     },
@@ -1624,6 +1692,10 @@
     },
     {
       "key": "U-Haul",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Uber",
       "value": "{\"attributes\":{},\"add_tags\":[]}"
     },
     {
