@@ -145,6 +145,10 @@
       "value": "Chick N Flames"
     },
     {
+      "key": "Branch Transaction SERVICE CHARGE",
+      "value": "CIBC"
+    },
+    {
       "key": "CINEPLEX",
       "value": "Cineplex"
     },
@@ -573,6 +577,10 @@
       "value": "Payless"
     },
     {
+      "key": "PET VALU",
+      "value": "Pet Valu"
+    },
+    {
       "key": "PETLAND-SOUTHPA",
       "value": "Petland"
     },
@@ -829,6 +837,10 @@
       "value": "Tres Carnales"
     },
     {
+      "key": "U-HAUL GS HELPERS",
+      "value": "U-Haul"
+    },
+    {
       "key": "UBER* EATS",
       "value": "Uber Eats"
     },
@@ -1056,6 +1068,10 @@
     },
     {
       "key": "Chick N Flames",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "CIBC",
       "value": "{\"attributes\":{},\"add_tags\":[]}"
     },
     {
@@ -1403,6 +1419,10 @@
       "value": "{\"attributes\":{},\"add_tags\":[]}"
     },
     {
+      "key": "Pet Valu",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
       "key": "Petland",
       "value": "{\"attributes\":{},\"add_tags\":[]}"
     },
@@ -1600,6 +1620,10 @@
     },
     {
       "key": "Tres Carnales",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "U-Haul",
       "value": "{\"attributes\":{},\"add_tags\":[]}"
     },
     {
