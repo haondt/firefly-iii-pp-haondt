@@ -5,6 +5,10 @@
       "value": "1UP Keyboards"
     },
     {
+      "key": "7-ELEVEN",
+      "value": "7-Eleven"
+    },
+    {
       "key": "A&W-CAP CORNER",
       "value": "A&W"
     },
@@ -15,6 +19,18 @@
     {
       "key": "ABCO",
       "value": "ABco"
+    },
+    {
+      "key": "ACCU SEARCH",
+      "value": "Accu-Search Registries"
+    },
+    {
+      "key": "Activis",
+      "value": "Activision Blizzard"
+    },
+    {
+      "key": "STUDNT LOA AB STUDENT AID",
+      "value": "Alberta Student Aid"
     },
     {
       "key": "aliexpress",
@@ -53,8 +69,24 @@
       "value": "Amazon"
     },
     {
+      "key": "AMAZON MKTPLACE",
+      "value": "Amazon"
+    },
+    {
+      "key": "AMZ*Amazon.ca",
+      "value": "Amazon"
+    },
+    {
+      "key": "CREDIT VOUCHER/RETURN AMZ*Amazon.ca",
+      "value": "Amazon"
+    },
+    {
       "key": "SQ *ANDREW GLAZEBROOK FIN",
       "value": "Andrew Glazebrook"
+    },
+    {
+      "key": "ANDREW KRETZER",
+      "value": "Andrew Kretzer"
     },
     {
       "key": "ASAPA ANIMETHON",
@@ -73,6 +105,14 @@
       "value": "Apple"
     },
     {
+      "key": "APL* ITUNES.COM",
+      "value": "Apple"
+    },
+    {
+      "key": "ATOM TICKETS, LLC",
+      "value": "Atom Tickets"
+    },
+    {
       "key": "AURORA CANNABIS",
       "value": "Aurora Cannabis"
     },
@@ -83,6 +123,14 @@
     {
       "key": "*BANGGOO",
       "value": "Banggood"
+    },
+    {
+      "key": "BELL",
+      "value": "Bell"
+    },
+    {
+      "key": "BEST BUY",
+      "value": "Best Buy"
     },
     {
       "key": "BLAZE PIZZA",
@@ -105,8 +153,24 @@
       "value": "Booster Juice"
     },
     {
+      "key": "BOOSTERJUICE -",
+      "value": "Booster Juice"
+    },
+    {
+      "key": "BOOSTER JUICE,",
+      "value": "Booster Juice"
+    },
+    {
       "key": "BOSTON PIZZA",
       "value": "Boston Pizza"
+    },
+    {
+      "key": "Breeann Burghardt",
+      "value": "Breeann Burghardt"
+    },
+    {
+      "key": "BULK BARN",
+      "value": "Bulk Barn"
     },
     {
       "key": "CALENDAR CLUB OF CANADA #",
@@ -115,6 +179,10 @@
     {
       "key": "SPRING",
       "value": "Call It Spring"
+    },
+    {
+      "key": "CPC SCP",
+      "value": "Canada Post"
     },
     {
       "key": "NSLSC",
@@ -133,12 +201,44 @@
       "value": "Canadian Tire"
     },
     {
+      "key": "Automated Banking Machine INSTANT TELLER DEPOSIT LEDUC 2F70",
+      "value": "Cash Deposit"
+    },
+    {
+      "key": "Automated Banking Machine INSTANT TELLER DEPOSIT LEDUC 1B64",
+      "value": "Cash Deposit"
+    },
+    {
+      "key": "Automated Banking Machine US $ DEPOSIT IN CANADIAN $ LEDUC 1B64",
+      "value": "Cash Deposit"
+    },
+    {
+      "key": "Automated Banking Machine INSTANT TELLER WITHDRAWAL UNIV OF ALBERTA 1G1J",
+      "value": "Cash Withdrawal"
+    },
+    {
+      "key": "Automated Banking Machine INSTANT TELLER WITHDRAWAL LEDUC 1B64",
+      "value": "Cash Withdrawal"
+    },
+    {
+      "key": "Automated Banking Machine INSTANT TELLER WITHDRAWAL LEDUC 2F70",
+      "value": "Cash Withdrawal"
+    },
+    {
+      "key": "Automated Banking Machine INSTANT TELLER WITHDRAWAL INTERAC/TNS SCD 1127",
+      "value": "Cash Withdrawal"
+    },
+    {
       "key": "*CDKEYS.",
       "value": "CDKeys"
     },
     {
       "key": "CDKEYS.COM               Hertfordshire",
       "value": "CDKeys"
+    },
+    {
+      "key": "CHICAGO DEEP DI",
+      "value": "Chicago Deep Dish Pizza"
     },
     {
       "key": "CHICK N FLAMES",
@@ -149,11 +249,59 @@
       "value": "CIBC"
     },
     {
+      "key": "Branch Transaction E-TRANSFER NETWORK FEE",
+      "value": "CIBC"
+    },
+    {
+      "key": "ABM-CANADA/GAB-CANADA",
+      "value": "CIBC"
+    },
+    {
+      "key": "Branch Transaction SMART INTEREST",
+      "value": "CIBC"
+    },
+    {
+      "key": "Branch Transaction INTEREST",
+      "value": "CIBC"
+    },
+    {
+      "key": "Branch Transaction BONUS INTEREST",
+      "value": "CIBC"
+    },
+    {
+      "key": "CREDIT ADJUSTMENT",
+      "value": "CIBC"
+    },
+    {
+      "key": "Branch Transaction SERVICE CHARGE DISCOUNT",
+      "value": "CIBC"
+    },
+    {
+      "key": "\tBranch Transaction SERVICE CHARGE DISCOUNT",
+      "value": "CIBC"
+    },
+    {
       "key": "CINEPLEX",
       "value": "Cineplex"
     },
     {
+      "key": "*CINEPLE",
+      "value": "Cineplex"
+    },
+    {
       "key": "CITYOFEDMONTON-MOVELEARNP",
+      "value": "City of Edmonton"
+    },
+    {
+      "key": "EDM EPARK PAY MACHINE",
+      "value": "City of Edmonton"
+    },
+    {
+      "key": "DPS PAY BY PHONE",
+      "value": "City of Edmonton"
+    },
+    {
+      "key": "PARKING PPL",
       "value": "City of Edmonton"
     },
     {
@@ -173,12 +321,20 @@
       "value": "Coinamatic"
     },
     {
+      "key": "COOKIES BY GEOR",
+      "value": "Cookies by George"
+    },
+    {
       "key": "WWW COSTCO CA",
       "value": "Costco"
     },
     {
       "key": "COSTCO GAS W258",
       "value": "Costco Gas"
+    },
+    {
+      "key": "WESTERN CRYSTAL",
+      "value": "Crystal Glass"
     },
     {
       "key": "DAIRY QUEEN GRI",
@@ -213,12 +369,28 @@
       "value": "Domino's"
     },
     {
+      "key": "DOMINO'S PIZZA",
+      "value": "Domino's"
+    },
+    {
+      "key": "DON WILSON",
+      "value": "Don Wilson"
+    },
+    {
       "key": "DORINKU",
       "value": "Dorinku"
     },
     {
+      "key": "WEM - DRAGON'S",
+      "value": "Dragon's Tale Blacklight Mini-Golf"
+    },
+    {
       "key": "DREAM TEA",
       "value": "Dream Tea"
+    },
+    {
+      "key": "EARL'S EDM TIN",
+      "value": "Earls"
     },
     {
       "key": "*EBAY CA",
@@ -237,6 +409,10 @@
       "value": "Edmonton Guitar Music School"
     },
     {
+      "key": "EDMONTON MOTORS",
+      "value": "Edmonton Motor Show"
+    },
+    {
       "key": "STARTUPEDMONTON",
       "value": "Edmonton Unlimited"
     },
@@ -247,6 +423,10 @@
     {
       "key": "*EA INC",
       "value": "Electronic Arts"
+    },
+    {
+      "key": "SP * ELMWOOD ELECTRONI",
+      "value": "Elmwood Electronics"
     },
     {
       "key": "SEC - EMPIRE PA",
@@ -281,8 +461,24 @@
       "value": "Epic Games"
     },
     {
+      "key": "WESTSIDE ESSO",
+      "value": "Esso"
+    },
+    {
       "key": "*ETSY.CO",
       "value": "Etsy"
+    },
+    {
+      "key": "haylee",
+      "value": "Facebook Marketplace"
+    },
+    {
+      "key": "Kole McKinney",
+      "value": "Facebook Marketplace"
+    },
+    {
+      "key": "FAS GAS BLACK G",
+      "value": "Fas Gas"
     },
     {
       "key": "FATBURGER WESTL",
@@ -305,6 +501,14 @@
       "value": "FedEx"
     },
     {
+      "key": "FILAMENTS CA",
+      "value": "Filaments.ca"
+    },
+    {
+      "key": "FIRST STRING SE",
+      "value": "First String"
+    },
+    {
       "key": "A9Z4L8IG0000 FOOT LOCKER CAN",
       "value": "Foot Locker"
     },
@@ -319,6 +523,14 @@
     {
       "key": "FOOT LOCKER",
       "value": "Foot Locker"
+    },
+    {
+      "key": "FOOTLOCKER",
+      "value": "Foot Locker"
+    },
+    {
+      "key": "FOUNTAIN TIRE #",
+      "value": "Fountain Tire"
     },
     {
       "key": "FRESHII CALGARY TRAIL EDM",
@@ -341,11 +553,31 @@
       "value": "GNC"
     },
     {
+      "key": "GODADDY.COM CAN",
+      "value": "GoDaddy"
+    },
+    {
       "key": "GoFndMe* Raisin",
       "value": "GoFundMe"
     },
     {
       "key": "GOOGLE *TEMPORA",
+      "value": "Google"
+    },
+    {
+      "key": "GOOGLE *Music",
+      "value": "Google"
+    },
+    {
+      "key": "play st",
+      "value": "Google"
+    },
+    {
+      "key": "Google",
+      "value": "Google"
+    },
+    {
+      "key": "Play",
       "value": "Google"
     },
     {
@@ -359,6 +591,14 @@
     {
       "key": "SQ *HANJAN SOUTH",
       "value": "Hanjan South"
+    },
+    {
+      "key": "HAPPY CHAPPY IC",
+      "value": "Happy Chappy Ice Cream Shop"
+    },
+    {
+      "key": "10501622849 HELLO MOBILE CORP",
+      "value": "Hello Mobile"
     },
     {
       "key": "HIPI INDUSTRIES INC",
@@ -385,12 +625,24 @@
       "value": "Hughes"
     },
     {
+      "key": "HUGHES PETROLEU",
+      "value": "Hughes"
+    },
+    {
+      "key": "HUSKY LEDUC",
+      "value": "Husky"
+    },
+    {
       "key": "IHOP",
       "value": "IHop"
     },
     {
       "key": "IKEA EDMONTON",
       "value": "IKEA"
+    },
+    {
+      "key": "IMPARK00020214U",
+      "value": "Impark"
     },
     {
       "key": "ITALIAN CENTRE",
@@ -413,6 +665,10 @@
       "value": "JOEY"
     },
     {
+      "key": "NUKE UKULELES",
+      "value": "Juan Carlos"
+    },
+    {
       "key": "JUGO JUICE",
       "value": "Jugo Juice"
     },
@@ -421,8 +677,20 @@
       "value": "KBDfans"
     },
     {
+      "key": "KNOWLEDGE FIRST FOUNDATION",
+      "value": "Knowledge First Financial"
+    },
+    {
+      "key": "KFF RESP/REEE",
+      "value": "Knowledge First Financial"
+    },
+    {
       "key": "KONZ PIZZA",
       "value": "Konz Pizza"
+    },
+    {
+      "key": "Blek An",
+      "value": "kunabi brother"
     },
     {
       "key": "LA FITNESS",
@@ -437,11 +705,19 @@
       "value": "Landmark Cinemas"
     },
     {
+      "key": "LEDUC CINEMAS",
+      "value": "Leduc Cinemas"
+    },
+    {
       "key": "LEDUC EYE CENTR",
       "value": "Leduc Eye Centre"
     },
     {
       "key": "LEDUC RECREATIO",
+      "value": "Leduc Recreation Centre"
+    },
+    {
+      "key": "BLACK GOLD CENT",
       "value": "Leduc Recreation Centre"
     },
     {
@@ -497,6 +773,14 @@
       "value": "Lucky Lemons"
     },
     {
+      "key": "LEDUC MAC'S STO",
+      "value": "Mac's"
+    },
+    {
+      "key": "MARBLE SLAB CRE",
+      "value": "Marble Slab"
+    },
+    {
       "key": "MARCOS FAMOUS",
       "value": "Marco's Famous"
     },
@@ -507,6 +791,10 @@
     {
       "key": "MCDONALD'S",
       "value": "McDonald's"
+    },
+    {
+      "key": "MCMASTER-C",
+      "value": "McMaster-Carr"
     },
     {
       "key": "MEMORY EXPRESS",
@@ -521,12 +809,20 @@
       "value": "Memory Express"
     },
     {
-      "key": "OCULUS *YA7WK8KFH2       oculus.com   CA",
+      "key": "MEMORY EXPRESS EDMONTON S",
+      "value": "Memory Express"
+    },
+    {
+      "key": "OCULUS *YA7WK8KFH2",
       "value": "Meta"
     },
     {
       "key": "MICHAELS",
       "value": "Michaels"
+    },
+    {
+      "key": "MICROSOFT*STORE",
+      "value": "Microsoft"
     },
     {
       "key": "Microsoft*Store",
@@ -537,7 +833,7 @@
       "value": "Microsoft"
     },
     {
-      "key": "MICROSOFT*STORE          MSBILL.INFO  ON",
+      "key": "MICROSOFT *ST",
       "value": "Microsoft"
     },
     {
@@ -547,6 +843,14 @@
     {
       "key": "Mogouyan Hand Pulled N",
       "value": "Mogouyan"
+    },
+    {
+      "key": "MR BARBERSHOP",
+      "value": "Mr. Barber"
+    },
+    {
+      "key": "MUCHO BURRITO",
+      "value": "Mucho Burrito"
     },
     {
       "key": "NAMASTE INDIA",
@@ -565,8 +869,20 @@
       "value": "NAPA"
     },
     {
+      "key": "NEW YORK FRIES",
+      "value": "New York Fries"
+    },
+    {
+      "key": "*NEWEGG",
+      "value": "Newegg"
+    },
+    {
       "key": "*NEXUSMO",
       "value": "Nexus Mods"
+    },
+    {
+      "key": "NOFRILLS CRAIG'",
+      "value": "No Frills"
     },
     {
       "key": "WWW NORDVPN COM",
@@ -617,6 +933,10 @@
       "value": "Petro-Canada"
     },
     {
+      "key": "PETRO-CANADA",
+      "value": "Petro-Canada"
+    },
+    {
       "key": "PETSMART INC. 0",
       "value": "PetSmart"
     },
@@ -633,6 +953,14 @@
       "value": "Pizza 73"
     },
     {
+      "key": "U OF A CAB PIZZ",
+      "value": "Pizza 73"
+    },
+    {
+      "key": "PIZZA HUT",
+      "value": "Pizza Hut"
+    },
+    {
       "key": "PLEASANTVIEW TO",
       "value": "Pleasantview Townhomes"
     },
@@ -641,8 +969,16 @@
       "value": "Pleasantview Townhomes"
     },
     {
+      "key": "Plex In",
+      "value": "Plex"
+    },
+    {
       "key": "POUTINE WORLD",
       "value": "Poutine World Food Truck"
+    },
+    {
+      "key": "PRESS'D THE SAN",
+      "value": "Press'd Sandwich Shop"
     },
     {
       "key": "PUMA SOUTH EDMONTON",
@@ -677,6 +1013,10 @@
       "value": "Rexall"
     },
     {
+      "key": "LEDUC REXALL DR",
+      "value": "Rexall"
+    },
+    {
       "key": "RICE BOWL DELUX",
       "value": "Rice Bowl Deluxe"
     },
@@ -701,8 +1041,28 @@
       "value": "Safeway"
     },
     {
+      "key": "SALARMY LEDUC S",
+      "value": "Salvation Army"
+    },
+    {
+      "key": "SAVOY'S EXPRESS",
+      "value": "Savoy's Express"
+    },
+    {
+      "key": "BONUS CASHBACK",
+      "value": "Scotiabank"
+    },
+    {
       "key": "ANNUAL FEE",
       "value": "Scotiabank"
+    },
+    {
+      "key": "U OF A NLT SCND",
+      "value": "Second Cup"
+    },
+    {
+      "key": "Sharon Burghardt",
+      "value": "Sharon Burghardt"
     },
     {
       "key": "SHELL",
@@ -729,6 +1089,10 @@
       "value": "SkipTheDishes"
     },
     {
+      "key": "UOFA CAB SMOKE'",
+      "value": "Smoke's Poutinerie"
+    },
+    {
       "key": "SF EDMONTON CALGARY TRAIL",
       "value": "Snap Fitness"
     },
@@ -738,6 +1102,10 @@
     },
     {
       "key": "SF LEDUC",
+      "value": "Snap Fitness"
+    },
+    {
+      "key": "SNAP FITNESS",
       "value": "Snap Fitness"
     },
     {
@@ -757,6 +1125,10 @@
       "value": "Sport Check"
     },
     {
+      "key": "SPORT CHEK - LE",
+      "value": "Sport Check"
+    },
+    {
       "key": "SPOTIFY                  STOCKHOLM",
       "value": "Spotify"
     },
@@ -769,7 +1141,23 @@
       "value": "Staples"
     },
     {
+      "key": "STAPLES CANADA INC. CPT",
+      "value": "Staples"
+    },
+    {
       "key": "STARBUCKS COFFEE",
+      "value": "Starbucks"
+    },
+    {
+      "key": "U OF A CAB STRB",
+      "value": "Starbucks"
+    },
+    {
+      "key": "U OF A CCIS STR",
+      "value": "Starbucks"
+    },
+    {
+      "key": "STARBUCKS",
       "value": "Starbucks"
     },
     {
@@ -786,6 +1174,10 @@
     },
     {
       "key": "STEAMGAMES.COM 4259522985Hamburg",
+      "value": "Steam"
+    },
+    {
+      "key": "WWW.STEAMPOWERE",
       "value": "Steam"
     },
     {
@@ -809,6 +1201,14 @@
       "value": "Subway"
     },
     {
+      "key": "TACO TIME U OF",
+      "value": "TacoTime"
+    },
+    {
+      "key": "TACO TIME PHASE",
+      "value": "TacoTime"
+    },
+    {
       "key": "SECURITY NATIONAL INSURAN",
       "value": "TD Insurance"
     },
@@ -823,6 +1223,14 @@
     {
       "key": "TELUS MOBILITY",
       "value": "Telus Mobility"
+    },
+    {
+      "key": "THE BILLIARD CL",
+      "value": "The Billiard Club"
+    },
+    {
+      "key": "SQ *THE DRINKING POST 172 Edmonton",
+      "value": "The Drinking Post"
     },
     {
       "key": "THE EASY RIDER",
@@ -861,11 +1269,27 @@
       "value": "The Source"
     },
     {
+      "key": "THE SOURCE",
+      "value": "The Source"
+    },
+    {
+      "key": "THE TURNER GUIT",
+      "value": "The Turner Guitar Studio"
+    },
+    {
+      "key": "TICKETMASTER CA",
+      "value": "Ticketmaster"
+    },
+    {
       "key": "U OF A CAB TIMS",
       "value": "Tim Hortons"
     },
     {
       "key": "TIM HORTONS",
+      "value": "Tim Hortons"
+    },
+    {
+      "key": "U OF A CAM TIMS",
       "value": "Tim Hortons"
     },
     {
@@ -879,6 +1303,10 @@
     {
       "key": "TRES CARNALES TAQUERIA",
       "value": "Tres Carnales"
+    },
+    {
+      "key": "TUTTI FRUTTI -",
+      "value": "Tutti Frutti"
     },
     {
       "key": "U-HAUL GS HELPERS",
@@ -925,11 +1353,47 @@
       "value": "University of Alberta"
     },
     {
+      "key": "UOFA GRAD STUDIES",
+      "value": "University of Alberta"
+    },
+    {
+      "key": "UNIVERSITY OF ALBERTA",
+      "value": "University of Alberta"
+    },
+    {
+      "key": "UA U-PARK PHYS ED - S",
+      "value": "University of Alberta"
+    },
+    {
+      "key": "U OF A CCIS POD",
+      "value": "University of Alberta"
+    },
+    {
+      "key": "U OF A CAB POD",
+      "value": "University of Alberta"
+    },
+    {
       "key": "UOFA BOOKSTORE",
       "value": "University of Alberta Bookstore"
     },
     {
       "key": "GOOGLE*SELLER",
+      "value": "Unknown Google Seller"
+    },
+    {
+      "key": "flar2",
+      "value": "Unknown Google Seller"
+    },
+    {
+      "key": "Projekt",
+      "value": "Unknown Google Seller"
+    },
+    {
+      "key": "KustomI",
+      "value": "Unknown Google Seller"
+    },
+    {
+      "key": "Point of Sale - Visa Debit CORRECTION GOOGLE *SELLER 611942177016",
       "value": "Unknown Google Seller"
     },
     {
@@ -953,7 +1417,15 @@
       "value": "Unknown Paypal Transaction"
     },
     {
+      "key": "PAYPAL PTE LTD",
+      "value": "Unknown Paypal Transaction"
+    },
+    {
       "key": "URBAN OUTFITTERS",
+      "value": "Urban Outfitters"
+    },
+    {
+      "key": "URBAN OUTFITTER",
       "value": "Urban Outfitters"
     },
     {
@@ -1027,11 +1499,27 @@
       "value": "{\"attributes\":{},\"add_tags\":[]}"
     },
     {
+      "key": "7-Eleven",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
       "key": "A&W",
       "value": "{\"attributes\":{},\"add_tags\":[]}"
     },
     {
       "key": "ABco",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Accu-Search Registries",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Activision Blizzard",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Alberta Student Aid",
       "value": "{\"attributes\":{},\"add_tags\":[]}"
     },
     {
@@ -1051,6 +1539,10 @@
       "value": "{\"attributes\":{},\"add_tags\":[]}"
     },
     {
+      "key": "Andrew Kretzer",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
       "key": "Animethon",
       "value": "{\"attributes\":{},\"add_tags\":[]}"
     },
@@ -1063,6 +1555,10 @@
       "value": "{\"attributes\":{},\"add_tags\":[]}"
     },
     {
+      "key": "Atom Tickets",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
       "key": "Aurora Cannabis",
       "value": "{\"attributes\":{},\"add_tags\":[]}"
     },
@@ -1072,6 +1568,14 @@
     },
     {
       "key": "Banggood",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Bell",
+      "value": "{\"attributes\":{\"biil_name\":\"Phone\"},\"add_tags\":[]}"
+    },
+    {
+      "key": "Best Buy",
       "value": "{\"attributes\":{},\"add_tags\":[]}"
     },
     {
@@ -1099,11 +1603,23 @@
       "value": "{\"attributes\":{},\"add_tags\":[]}"
     },
     {
+      "key": "Breeann Burghardt",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Bulk Barn",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
       "key": "Calendar Club",
       "value": "{\"attributes\":{},\"add_tags\":[]}"
     },
     {
       "key": "Call It Spring",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Canada Post",
       "value": "{\"attributes\":{},\"add_tags\":[]}"
     },
     {
@@ -1115,7 +1631,19 @@
       "value": "{\"attributes\":{},\"add_tags\":[]}"
     },
     {
+      "key": "Cash Deposit",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Cash Withdrawal",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
       "key": "CDKeys",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Chicago Deep Dish Pizza",
       "value": "{\"attributes\":{},\"add_tags\":[]}"
     },
     {
@@ -1151,11 +1679,19 @@
       "value": "{\"attributes\":{},\"add_tags\":[]}"
     },
     {
+      "key": "Cookies by George",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
       "key": "Costco",
       "value": "{\"attributes\":{},\"add_tags\":[]}"
     },
     {
       "key": "Costco Gas",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Crystal Glass",
       "value": "{\"attributes\":{},\"add_tags\":[]}"
     },
     {
@@ -1183,11 +1719,23 @@
       "value": "{\"attributes\":{},\"add_tags\":[]}"
     },
     {
+      "key": "Don Wilson",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
       "key": "Dorinku",
       "value": "{\"attributes\":{},\"add_tags\":[]}"
     },
     {
+      "key": "Dragon's Tale Blacklight Mini-Golf",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
       "key": "Dream Tea",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Earls",
       "value": "{\"attributes\":{},\"add_tags\":[]}"
     },
     {
@@ -1203,6 +1751,10 @@
       "value": "{\"attributes\":{},\"add_tags\":[]}"
     },
     {
+      "key": "Edmonton Motor Show",
+      "value": "{\"attributes\":{},\"add_tags\":[\"Trade Shows\"]}"
+    },
+    {
       "key": "Edmonton Unlimited",
       "value": "{\"attributes\":{},\"add_tags\":[]}"
     },
@@ -1212,6 +1764,10 @@
     },
     {
       "key": "Electronic Arts",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Elmwood Electronics",
       "value": "{\"attributes\":{},\"add_tags\":[]}"
     },
     {
@@ -1231,8 +1787,20 @@
       "value": "{\"attributes\":{},\"add_tags\":[]}"
     },
     {
+      "key": "Esso",
+      "value": "{\"attributes\":{\"bill_name\": \"Fuel\"},\"add_tags\":[]}"
+    },
+    {
       "key": "Etsy",
       "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Facebook Marketplace",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Fas Gas",
+      "value": "{\"attributes\":{\"bill_name\": \"Fuel\"},\"add_tags\":[]}"
     },
     {
       "key": "Fatburger",
@@ -1243,7 +1811,19 @@
       "value": "{\"attributes\":{},\"add_tags\":[]}"
     },
     {
+      "key": "Filaments.ca",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "First String",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
       "key": "Foot Locker",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Fountain Tire",
       "value": "{\"attributes\":{},\"add_tags\":[]}"
     },
     {
@@ -1267,6 +1847,10 @@
       "value": "{\"attributes\":{},\"add_tags\":[]}"
     },
     {
+      "key": "GoDaddy",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
       "key": "GoFundMe",
       "value": "{\"attributes\":{},\"add_tags\":[]}"
     },
@@ -1284,6 +1868,14 @@
     },
     {
       "key": "Hanjan South",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Happy Chappy Ice Cream Shop",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Hello Mobile",
       "value": "{\"attributes\":{},\"add_tags\":[]}"
     },
     {
@@ -1307,11 +1899,19 @@
       "value": "{\n    \"attributes\": {\n        \"bill_name\": \"Fuel\"\n    },\n    \"add_tags\": []\n}"
     },
     {
+      "key": "Husky",
+      "value": "{\"attributes\":{\"bill_name\": \"Fuel\"},\"add_tags\":[]}"
+    },
+    {
       "key": "IHop",
       "value": "{\"attributes\":{},\"add_tags\":[]}"
     },
     {
       "key": "IKEA",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Impark",
       "value": "{\"attributes\":{},\"add_tags\":[]}"
     },
     {
@@ -1331,6 +1931,10 @@
       "value": "{\"attributes\":{},\"add_tags\":[]}"
     },
     {
+      "key": "Juan Carlos",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
       "key": "Jugo Juice",
       "value": "{\"attributes\":{},\"add_tags\":[]}"
     },
@@ -1339,7 +1943,15 @@
       "value": "{\"attributes\":{},\"add_tags\":[]}"
     },
     {
+      "key": "Knowledge First Financial",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
       "key": "Konz Pizza",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "kunabi brother",
       "value": "{\"attributes\":{},\"add_tags\":[]}"
     },
     {
@@ -1348,6 +1960,10 @@
     },
     {
       "key": "Landmark Cinemas",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Leduc Cinemas",
       "value": "{\"attributes\":{},\"add_tags\":[]}"
     },
     {
@@ -1391,6 +2007,14 @@
       "value": "{\"attributes\":{},\"add_tags\":[]}"
     },
     {
+      "key": "Mac's",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Marble Slab",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
       "key": "Marco's Famous",
       "value": "{\"attributes\":{},\"add_tags\":[]}"
     },
@@ -1400,6 +2024,10 @@
     },
     {
       "key": "McDonald's",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "McMaster-Carr",
       "value": "{\"attributes\":{},\"add_tags\":[]}"
     },
     {
@@ -1427,6 +2055,14 @@
       "value": "{\"attributes\":{},\"add_tags\":[]}"
     },
     {
+      "key": "Mr. Barber",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Mucho Burrito",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
       "key": "Namaste",
       "value": "{\"attributes\":{},\"add_tags\":[]}"
     },
@@ -1443,7 +2079,19 @@
       "value": "{\"attributes\":{},\"add_tags\":[]}"
     },
     {
+      "key": "New York Fries",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Newegg",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
       "key": "Nexus Mods",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "No Frills",
       "value": "{\"attributes\":{},\"add_tags\":[]}"
     },
     {
@@ -1503,11 +2151,23 @@
       "value": "{\"attributes\":{},\"add_tags\":[]}"
     },
     {
+      "key": "Pizza Hut",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
       "key": "Pleasantview Townhomes",
       "value": "{\"attributes\":{},\"add_tags\":[]}"
     },
     {
+      "key": "Plex",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
       "key": "Poutine World Food Truck",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Press'd Sandwich Shop",
       "value": "{\"attributes\":{},\"add_tags\":[]}"
     },
     {
@@ -1559,7 +2219,23 @@
       "value": "{\"attributes\":{\"bill_name\":\"Groceries\"},\"add_tags\":[]}"
     },
     {
+      "key": "Salvation Army",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Savoy's Express",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
       "key": "Scotiabank",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Second Cup",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Sharon Burghardt",
       "value": "{\"attributes\":{},\"add_tags\":[]}"
     },
     {
@@ -1580,6 +2256,10 @@
     },
     {
       "key": "SkipTheDishes",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Smoke's Poutinerie",
       "value": "{\"attributes\":{},\"add_tags\":[]}"
     },
     {
@@ -1635,6 +2315,10 @@
       "value": "{\"attributes\":{},\"add_tags\":[]}"
     },
     {
+      "key": "TacoTime",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
       "key": "TD Insurance",
       "value": "{\"attributes\":{\"bill_name\":\"Vehicle Insurance and Registration\"},\"add_tags\":[]}"
     },
@@ -1645,6 +2329,14 @@
     {
       "key": "Telus Mobility",
       "value": "{\"attributes\":{\"bill_name\":\"Phone\"},\"add_tags\":[]}"
+    },
+    {
+      "key": "The Billiard Club",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "The Drinking Post",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
     },
     {
       "key": "The Easy Rider",
@@ -1675,6 +2367,14 @@
       "value": "{\"attributes\":{},\"add_tags\":[]}"
     },
     {
+      "key": "The Turner Guitar Studio",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Ticketmaster",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
       "key": "Tim Hortons",
       "value": "{\"attributes\":{},\"add_tags\":[]}"
     },
@@ -1688,6 +2388,10 @@
     },
     {
       "key": "Tres Carnales",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Tutti Frutti",
       "value": "{\"attributes\":{},\"add_tags\":[]}"
     },
     {
