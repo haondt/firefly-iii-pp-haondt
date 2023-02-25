@@ -4,11 +4,11 @@
     "colId": "64dc1d5b-787a-4f30-8c05-a30607f84af1",
     "containerId": "af55306c-aebf-4c4b-86b2-ed93e2d3e1d6",
     "name": "Get Transaction",
-    "url": "{{base_url}}/firefly_iii/transactions/2249",
+    "url": "{{base_url}}/firefly_iii/transactions/1769",
     "method": "GET",
     "sortNum": 177,
     "created": "2023-02-01T22:27:54.667Z",
-    "modified": "2023-02-15T18:52:44.892Z",
+    "modified": "2023-02-25T16:18:16.145Z",
     "headers": [],
     "params": [],
     "tests": []
@@ -102,11 +102,11 @@
     "colId": "6c78395b-4152-4d23-a01a-64ca932e9272",
     "containerId": "",
     "name": "Get Transaction",
-    "url": "{{base_url}}/api/v1/transactions/2252",
+    "url": "{{base_url}}/api/v1/transactions/1769",
     "method": "GET",
     "sortNum": 177,
     "created": "2023-02-01T22:33:35.943Z",
-    "modified": "2023-02-23T15:20:31.595Z",
+    "modified": "2023-02-25T16:17:30.537Z",
     "headers": [],
     "params": [],
     "tests": []
@@ -1918,12 +1918,12 @@
     "method": "POST",
     "sortNum": 320,
     "created": "2023-02-05T23:12:54.185Z",
-    "modified": "2023-02-05T23:16:56.117Z",
+    "modified": "2023-02-25T16:18:48.580Z",
     "headers": [],
     "params": [],
     "body": {
       "type": "json",
-      "raw": "{\n  \"stringifiedJsonPayload\":\"{\\\"destination_name\\\":\\\"(no name)\\\",\\\"source_name\\\":\\\"Scotia Momentum VISA Infinite\\\",\\\"description\\\":\\\"A&W-CAP CORNER #1730     EDMONTON     AB  (GOOGLE PAY)\\\"}\"\n}",
+      "raw": "{\n  \"stringifiedJsonPayload\":\"{\\n  \\\"type\\\": \\\"withdrawal\\\",\\n  \\\"date\\\": \\\"2017-08-29T00:00:00-06:00\\\",\\n  \\\"amount\\\": \\\"26.240000000000000000000000\\\",\\n  \\\"description\\\": \\\"Point of Sale - Interac RETAIL PURCHASE 037001001139 7-ELEVEN 33627\\\",\\n  \\\"source_id\\\": \\\"1\\\",\\n  \\\"source_name\\\": \\\"CIBC - Smart Plus\\\",\\n  \\\"destination_id\\\": \\\"301\\\",\\n  \\\"destination_name\\\": \\\"7-Eleven\\\",\\n  \\\"tags\\\": [\\n    \\\"Data Import on 2022-12-23 @ 23:43\\\"\\n  ],\\n  \\\"original_source\\\": \\\"ff3-v5.7.15|api-v1.5.6\\\",\\n  \\\"import_hash_v2\\\": \\\"1c5e2ed3a3ee640e3f02625e3f9f1b1ccd44bccacd74c8c82bda3e3435b68f23\\\"\\n}\"\n}",
       "form": []
     },
     "tests": []
@@ -6750,5 +6750,24 @@
         "value": "304"
       }
     ]
+  },
+  {
+    "_id": "0e53ea77-1798-4285-8ad0-49430b048e47",
+    "colId": "64dc1d5b-787a-4f30-8c05-a30607f84af1",
+    "containerId": "949fa0e5-c56f-4ca3-b663-c80c029bed72",
+    "name": "Get Value -> ValueValue",
+    "url": "{{base_url}}/lookup/action/expenseAccounts/get-value-value",
+    "method": "POST",
+    "sortNum": 10511,
+    "created": "2023-02-25T16:21:06.960Z",
+    "modified": "2023-02-25T16:23:03.259Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n  \"value\": \"7-Eleven\"\n}",
+      "form": []
+    },
+    "tests": []
   }
 ]
