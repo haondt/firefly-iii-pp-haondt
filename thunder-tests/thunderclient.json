@@ -4,11 +4,11 @@
     "colId": "64dc1d5b-787a-4f30-8c05-a30607f84af1",
     "containerId": "af55306c-aebf-4c4b-86b2-ed93e2d3e1d6",
     "name": "Get Transaction",
-    "url": "{{base_url}}/firefly_iii/transactions/1769",
+    "url": "{{base_url}}/firefly_iii/transactions/3011",
     "method": "GET",
     "sortNum": 177,
     "created": "2023-02-01T22:27:54.667Z",
-    "modified": "2023-02-25T16:18:16.145Z",
+    "modified": "2023-02-25T17:21:38.370Z",
     "headers": [],
     "params": [],
     "tests": []
@@ -102,11 +102,11 @@
     "colId": "6c78395b-4152-4d23-a01a-64ca932e9272",
     "containerId": "",
     "name": "Get Transaction",
-    "url": "{{base_url}}/api/v1/transactions/1769",
+    "url": "{{base_url}}/api/v1/transactions/3019",
     "method": "GET",
     "sortNum": 177,
     "created": "2023-02-01T22:33:35.943Z",
-    "modified": "2023-02-25T16:17:30.537Z",
+    "modified": "2023-02-25T16:46:51.042Z",
     "headers": [],
     "params": [],
     "tests": []
@@ -116,11 +116,11 @@
     "colId": "6c78395b-4152-4d23-a01a-64ca932e9272",
     "containerId": "",
     "name": "Update transaction",
-    "url": "{{base_url}}/api/v1/transactions/2227",
+    "url": "{{base_url}}/api/v1/transactions/3019",
     "method": "PUT",
     "sortNum": 510,
     "created": "2023-02-01T22:41:36.73Z",
-    "modified": "2023-02-22T02:09:42.483Z",
+    "modified": "2023-02-25T16:49:20.663Z",
     "headers": [
       {
         "name": "Accept",
@@ -130,7 +130,7 @@
     "params": [],
     "body": {
       "type": "json",
-      "raw": "{\n  \"transactions\": [\n    {\n      \"type\": \"deposit\",\n      \"date\": \"2022-12-04T00:00:00-07:00\",\n      \"amount\": \"89.240000000000000000000000\",\n      \"description\": \"CDN TIRE STORE #00448    LEDUC        AB\",\n      \"destination_id\": \"8\",\n      \"tags\": [\n        \"Data Import on 2023-01-02 @ 21:13\"\n      ],\n      \"original_source\": \"ff3-v5.7.15|api-v1.5.6\",\n      \"import_hash_v2\": \"76db2189093fb679b7ec8464ba22019b3111614d07cd81518a6820e8373a6134\",\n      \"notes\": null,\n      \"category_name\": null,\n      \"transaction_journal_id\": \"2227\",\n      \"bill_name\": null,\n      \"source_name\": \"Canadian Tire\"\n    }\n  ]\n}",
+      "raw": "{\n  \"transactions\": [\n    {\n      \"type\": \"withdrawal\",\n      \"date\": \"2023-02-06T00:00:00-07:00\",\n      \"amount\": \"162.180000000000000000000000\",\n      \"description\": \"REAL CDN SUPERSTORE #1   EDMONTON     AB\",\n      \"source_id\": \"8\",\n      \"source_name\": \"Scotia Momentum VISA Infinite\",\n      \"destination_id\": \"62\",\n      \"destination_name\": \"Real Canadian Superstore\",\n      \"tags\": [\n        \"Data Import on 2023-02-13 @ 19:42\"\n      ],\n      \"original_source\": \"ff3-v5.7.15|api-v1.5.6\",\n      \"import_hash_v2\": \"8431fec6001aa6a5af1efcb9eef6156df080798ebaff8056a50489d8813157ec\",\n      \"budget_name\": \"Groceries\"\n    }\n  ]\n}",
       "form": []
     },
     "tests": []

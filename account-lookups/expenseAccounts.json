@@ -2184,7 +2184,7 @@
     },
     {
       "key": "Real Canadian Superstore",
-      "value": "{\"attributes\":{\"bill_name\":\"Groceries\"},\"add_tags\":[]}"
+      "value": "{\"attributes\":{\"budget_name\":\"Groceries\"},\"add_tags\":[]}"
     },
     {
       "key": "RedBubble",
