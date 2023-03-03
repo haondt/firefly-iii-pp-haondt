@@ -2084,7 +2084,7 @@
     },
     {
       "key": "MEC",
-      "value": "{\"attributes\":{},\"add_tags\":[]}"
+      "value": "{\"attributes\":{\"budget_name\":\"Random Garbage\"},\"add_tags\":[]}"
     },
     {
       "key": "Memory Express",
@@ -2220,7 +2220,7 @@
     },
     {
       "key": "Plex",
-      "value": "{\"attributes\":{},\"add_tags\":[]}"
+      "value": "{\"attributes\":{\"budget_name\":\"Random Garbage\"},\"add_tags\":[]}"
     },
     {
       "key": "Poutine World Food Truck",
