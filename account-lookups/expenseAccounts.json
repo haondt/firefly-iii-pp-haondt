@@ -29,6 +29,10 @@
       "value": "Activision Blizzard"
     },
     {
+      "key": "BLIZZARD ENTERTAINMENT",
+      "value": "Activision Blizzard"
+    },
+    {
       "key": "STUDNT LOA AB STUDENT AID",
       "value": "Alberta Student Aid"
     },
@@ -135,10 +139,6 @@
     {
       "key": "BLAZE PIZZA",
       "value": "Blaze Pizza"
-    },
-    {
-      "key": "BLIZZARD ENTERTAINMENT",
-      "value": "Blizzard Entertainment"
     },
     {
       "key": "BLOCS",
@@ -1572,7 +1572,7 @@
     },
     {
       "key": "Activision Blizzard",
-      "value": "{\"attributes\":{},\"add_tags\":[]}"
+      "value": "{\"attributes\":{\"budget_name\":\"Random Garbage\"},\"add_tags\":[]}"
     },
     {
       "key": "Alberta Student Aid",
@@ -1636,11 +1636,7 @@
     },
     {
       "key": "Blaze Pizza",
-      "value": "{\"attributes\":{},\"add_tags\":[]}"
-    },
-    {
-      "key": "Blizzard Entertainment",
-      "value": "{\"attributes\":{},\"add_tags\":[]}"
+      "value": "{\n    \"attributes\": {\n        \"budget_name\": \"Random Garbage\"\n    },\n    \"add_tags\": []\n}"
     },
     {
       "key": "BLOCS",
@@ -1716,7 +1712,7 @@
     },
     {
       "key": "Cineplex",
-      "value": "{\"attributes\":{},\"add_tags\":[]}"
+      "value": "{\"attributes\":{\"budget_name\":\"Random Garbage\"},\"add_tags\":[]}"
     },
     {
       "key": "City of Edmonton",
@@ -1756,7 +1752,7 @@
     },
     {
       "key": "Dairy Queen",
-      "value": "{\"attributes\":{},\"add_tags\":[]}"
+      "value": "{\n    \"attributes\": {\n        \"budget_name\": \"Random Garbage\"\n    },\n    \"add_tags\": []\n}"
     },
     {
       "key": "DAVIDsTEA",
