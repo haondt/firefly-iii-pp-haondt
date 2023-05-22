@@ -5,6 +5,10 @@
       "value": "CIBC VISA"
     },
     {
+      "key": "SHARON BURGHARDT",
+      "value": "Sharon Burghardt"
+    },
+    {
       "key": "Wealthsimple Investments Inc.",
       "value": "Wealthsimple TFSA"
     }
@@ -12,6 +16,10 @@
   "values": [
     {
       "key": "CIBC VISA",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Sharon Burghardt",
       "value": "{\"attributes\":{},\"add_tags\":[]}"
     },
     {

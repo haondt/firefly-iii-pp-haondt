@@ -85,6 +85,10 @@
       "value": "Amazon"
     },
     {
+      "key": "AMZN Mktp CA*HV9OT97U1   WWW.AMAZON.CAON",
+      "value": "Amazon"
+    },
+    {
       "key": "SQ *ANDREW GLAZEBROOK FIN",
       "value": "Andrew Glazebrook"
     },
@@ -309,6 +313,10 @@
       "value": "City of Edmonton"
     },
     {
+      "key": "CLEAN CAR WASH WINDERMERE",
+      "value": "Clean Car Wash"
+    },
+    {
       "key": "CMD STORE 866-9",
       "value": "CmdStore"
     },
@@ -433,6 +441,10 @@
       "value": "Electronic Arts"
     },
     {
+      "key": "EA *ELECTRONIC ARTS      help.ea.com  CA",
+      "value": "Electronic Arts"
+    },
+    {
       "key": "SP * ELMWOOD ELECTRONI",
       "value": "Elmwood Electronics"
     },
@@ -442,6 +454,10 @@
     },
     {
       "key": "NBX*RENT",
+      "value": "Empire Park"
+    },
+    {
+      "key": "LETUS RENT",
       "value": "Empire Park"
     },
     {
@@ -475,6 +491,10 @@
     {
       "key": "*ETSY.CO",
       "value": "Etsy"
+    },
+    {
+      "key": "EVENTBRITE/SEASONOPENE   SAINT JOHN   NB",
+      "value": "Eventbrite"
     },
     {
       "key": "haylee",
@@ -1045,6 +1065,10 @@
       "value": "Real Canadian Superstore"
     },
     {
+      "key": "PC EXPRESS",
+      "value": "Real Canadian Superstore"
+    },
+    {
       "key": "*REDBUBB",
       "value": "RedBubble"
     },
@@ -1541,6 +1565,10 @@
       "value": "Youtube"
     },
     {
+      "key": "GOOGLE*YOUTUBE MEMBER    G.CO/HELPPAY#NS",
+      "value": "Youtube"
+    },
+    {
       "key": "ZARA WEM",
       "value": "Zara"
     },
@@ -1719,6 +1747,10 @@
       "value": "{\"attributes\":{\"budget_name\":\"Random Garbage\"},\"add_tags\":[]}"
     },
     {
+      "key": "Clean Car Wash",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
       "key": "CmdStore",
       "value": "{\n    \"attributes\": {},\n    \"add_tags\": [\n        \"Trade Shows\"\n    ]\n}"
     },
@@ -1848,6 +1880,10 @@
     },
     {
       "key": "Etsy",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Eventbrite",
       "value": "{\"attributes\":{},\"add_tags\":[]}"
     },
     {
