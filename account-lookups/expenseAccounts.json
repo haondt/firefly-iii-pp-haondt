@@ -289,11 +289,19 @@
       "value": "CIBC"
     },
     {
+      "key": "CINEPLEX CINECLUB",
+      "value": "CineClub"
+    },
+    {
       "key": "CINEPLEX",
       "value": "Cineplex"
     },
     {
       "key": "*CINEPLE",
+      "value": "Cineplex"
+    },
+    {
+      "key": "CINEPLEX ENTERTAINMENT",
       "value": "Cineplex"
     },
     {
@@ -359,6 +367,10 @@
     {
       "key": "DAVID'S TEA",
       "value": "DAVIDsTEA"
+    },
+    {
+      "key": "DBRAND ORDER             6472053971   ON AMT            29.95",
+      "value": "dbrand"
     },
     {
       "key": "Denny's Canada",
@@ -621,6 +633,10 @@
       "value": "H&M"
     },
     {
+      "key": "H & W PRODUCE",
+      "value": "H&W Produce"
+    },
+    {
       "key": "SQ *HANJAN SOUTH",
       "value": "Hanjan South"
     },
@@ -743,6 +759,10 @@
     {
       "key": "LA FITNESS ANNUAL FEE",
       "value": "LA Fitness"
+    },
+    {
+      "key": "SQ *LACE AND LEAVES STUDI",
+      "value": "Lace and Leaves Studio"
     },
     {
       "key": "LANDMARK 8 CITY CENTRE",
@@ -977,6 +997,10 @@
       "value": "Payless"
     },
     {
+      "key": "PC EXPRESS PASS",
+      "value": "PC Express Pass"
+    },
+    {
       "key": "PET VALU",
       "value": "Pet Valu"
     },
@@ -1069,6 +1093,10 @@
       "value": "Real Canadian Superstore"
     },
     {
+      "key": "RCSS",
+      "value": "Real Canadian Superstore"
+    },
+    {
       "key": "*REDBUBB",
       "value": "RedBubble"
     },
@@ -1111,6 +1139,10 @@
     {
       "key": "SALARMY LEDUC S",
       "value": "Salvation Army"
+    },
+    {
+      "key": "SAVE ON FOODS",
+      "value": "Save-On-Foods"
     },
     {
       "key": "SAVOY'S EXPRESS",
@@ -1299,6 +1331,10 @@
     {
       "key": "THE BILLIARD CL",
       "value": "The Billiard Club"
+    },
+    {
+      "key": "THE BRO'KIN YOLK SEC",
+      "value": "The Bro'Kin Yolk"
     },
     {
       "key": "SQ *THE DRINKING POST 172 Edmonton",
@@ -1557,6 +1593,10 @@
       "value": "XO Bistro"
     },
     {
+      "key": "Y-NOT INDIAN KITCHEN & BA",
+      "value": "Y-Not Indian Kitchen and Bar"
+    },
+    {
       "key": "YEH FROZEN YOG",
       "value": "Yeh! Frozen Yogurt & Café"
     },
@@ -1660,7 +1700,7 @@
     },
     {
       "key": "Best Buy",
-      "value": "{\"attributes\":{},\"add_tags\":[]}"
+      "value": "{\"attributes\":{\"budget_name\":\"Random Garbage\"},\"add_tags\":[]}"
     },
     {
       "key": "Blaze Pizza",
@@ -1739,6 +1779,10 @@
       "value": "{\"attributes\":{},\"add_tags\":[]}"
     },
     {
+      "key": "CineClub",
+      "value": "{\n    \"attributes\": {\n        \"bill_name\": \"Subscription Services\"\n    },\n    \"add_tags\": []\n}"
+    },
+    {
       "key": "Cineplex",
       "value": "{\"attributes\":{\"budget_name\":\"Random Garbage\"},\"add_tags\":[]}"
     },
@@ -1789,6 +1833,10 @@
     {
       "key": "DAVIDsTEA",
       "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "dbrand",
+      "value": "{\"attributes\":{\"budget_name\":\"Random Garbage\"},\"add_tags\":[]}"
     },
     {
       "key": "Denny's",
@@ -1963,6 +2011,10 @@
       "value": "{\"attributes\":{},\"add_tags\":[]}"
     },
     {
+      "key": "H&W Produce",
+      "value": "{\"attributes\":{\"budget_name\":\"Groceries\"},\"add_tags\":[]}"
+    },
+    {
       "key": "Hanjan South",
       "value": "{\"attributes\":{},\"add_tags\":[]}"
     },
@@ -2060,7 +2112,11 @@
     },
     {
       "key": "LA Fitness",
-      "value": "{\"attributes\":{},\"add_tags\":[]}"
+      "value": "{\n    \"attributes\": {\n        \"bill_name\": \"Subscription Services\"\n    },\n    \"add_tags\": []\n}"
+    },
+    {
+      "key": "Lace and Leaves Studio",
+      "value": "{\"attributes\":{\"budget_name\":\"Random Garbage\"},\"add_tags\":[]}"
     },
     {
       "key": "Landmark Cinemas",
@@ -2096,7 +2152,7 @@
     },
     {
       "key": "London Drugs",
-      "value": "{\"attributes\":{},\"add_tags\":[]}"
+      "value": "{\"attributes\":{\"budget_name\":\"Groceries\"},\"add_tags\":[]}"
     },
     {
       "key": "Long & McQuade",
@@ -2243,6 +2299,10 @@
       "value": "{\"attributes\":{},\"add_tags\":[]}"
     },
     {
+      "key": "PC Express Pass",
+      "value": "{\n    \"attributes\": {\n        \"bill_name\": \"Subscription Services\"\n    },\n    \"add_tags\": []\n}"
+    },
+    {
       "key": "Pet Valu",
       "value": "{\"attributes\":{\"budget_name\":\"Random Garbage\"},\"add_tags\":[]}"
     },
@@ -2256,7 +2316,7 @@
     },
     {
       "key": "PetSmart",
-      "value": "{\"attributes\":{},\"add_tags\":[]}"
+      "value": "{\"attributes\":{\"budget_name\":\"Random Garbage\"},\"add_tags\":[]}"
     },
     {
       "key": "Piano Centre",
@@ -2341,6 +2401,10 @@
     {
       "key": "Salvation Army",
       "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Save-On-Foods",
+      "value": "{\"attributes\":{\"budget_name\":\"Groceries\"},\"add_tags\":[]}"
     },
     {
       "key": "Savoy's Express",
@@ -2457,6 +2521,10 @@
     {
       "key": "The Billiard Club",
       "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "The Bro'Kin Yolk",
+      "value": "{\"attributes\":{\"budget_name\":\"Random Garbage\"},\"add_tags\":[]}"
     },
     {
       "key": "The Drinking Post",
@@ -2608,6 +2676,10 @@
     },
     {
       "key": "XO Bistro",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Y-Not Indian Kitchen and Bar",
       "value": "{\"attributes\":{},\"add_tags\":[]}"
     },
     {
