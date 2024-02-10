@@ -1,8 +1,16 @@
 {
   "keys": [
     {
+      "key": "AMZN Mktp CA             WWW.AMAZON.CAON",
+      "value": "Amazon"
+    },
+    {
       "key": "CIBC CARD PRODUCTS DIVISION",
       "value": "CIBC VISA"
+    },
+    {
+      "key": "VISA INFINITE CASH BACK",
+      "value": "Scotiabank"
     },
     {
       "key": "SHARON BURGHARDT",
@@ -19,7 +27,15 @@
   ],
   "values": [
     {
+      "key": "Amazon",
+      "value": "{\"attributes\":{\"budget_name\":\"Random Garbage\"},\"add_tags\":[]}"
+    },
+    {
       "key": "CIBC VISA",
+      "value": "{\"attributes\":{},\"add_tags\":[]}"
+    },
+    {
+      "key": "Scotiabank",
       "value": "{\"attributes\":{},\"add_tags\":[]}"
     },
     {
